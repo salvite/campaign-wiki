@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2025-07-06T00:28:34.181-07:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2025-07-06T00:34:27.482-07:00","cssclasses":""}
 ---
 
 Stormspire rises from a vast plateau, surrounded by steep cliffs and storm-wracked skies. It is a **marvel of elemental engineering**, blending polished marble streets, sky-piercing towers, and canals of flowing water. At its center, the **[[Stormspire Citadel]]**, seat of the [[Tempest Crown]], looms like a dagger pointing at the heavens.
@@ -52,7 +52,7 @@ The outer districts where merchants, farmers, travelers, and common folk live an
 - Guarded but less strictly controlled, making it fertile ground for intrigue and rebellion.
 - Festivals honoring the elements are held here, blending religious fervor and civic pride.
 
-# Defenses
+# 🛡️ Defenses
 
 - **Storm Wards:** Elemental shields crackle across the skies, deflecting sieges and airborne attacks.
 - **Bound Elementals:** Legions of elemental spirits guard the city, hidden in fountains, statues, and windmills.
