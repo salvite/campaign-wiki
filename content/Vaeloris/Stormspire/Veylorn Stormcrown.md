@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-07-06T00:38:18.193-07:00","modified":"2025-07-14T23:59:13.312-07:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:38:18.193-07:00","modified":"2025-07-15T00:07:43.327-07:00","cssclasses":""}
 ---
 
 ## **Emperor of the Stormspire Empire**
 
 
-
+![[z_assets/Veylorn.png]]
 ---
 
 ### 🧑 **Public Appearance:**
@@ -85,7 +85,7 @@ According to imperial chronicles, **Veylorn Stormcrown** was **born during the S
 
 - **Divine Origins:** Some claim Veylorn was the **son of the storm god [[Vaelos]]**, born to bring balance between the elements and mortal realms.
 
-- **Chosen of the Elements:** Others say he was a mortal imbued with the power of the Four Elements, gifted by the [[Vaeloris/Stormspire/Bound Court]] to stabilize the chaos of their ancient wars.
+- **Chosen of the Elements:** Others say he was a mortal imbued with the power of the Four Elements, gifted by the [[Vaeloris/Stormspire/Bound Court/Bound Court]] to stabilize the chaos of their ancient wars.
 
 - **The Living Crown:** Myths hold that the **[[Stormcrown]] fused to his spirit**, granting him unnaturally long life, wisdom, and the power to command storms.
 
