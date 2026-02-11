@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2025-07-09T00:36:02.237-07:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-10T21:45:02.350-08:00","cssclasses":""}
 ---
 
 Stormspire rises from a vast plateau, surrounded by steep cliffs and storm-wracked skies. It is a **marvel of elemental engineering**, blending polished marble streets, sky-piercing towers, and canals of flowing water. At its center, the **[[Stormspire Citadel]]**, seat of the [[Tempest Crown]], looms like a dagger pointing at the heavens.
 
 - **Population:** ~1.5 million (humans, dwarves, elves, orcs, genasi, and others)
-- **Government:** Absolute monarchy ruled by Emperor [[Vaeloris/Stormspire/Veylorn Stormcrown]]; the [[Vaeloris/Stormspire/Bound Court]] each govern a quarter of the city.
+- **Government:** Absolute monarchy ruled by Emperor [[Vaeloris/Stormspire/Veylorn Stormcrown]]; the [[Vaeloris/Stormspire/Bound Court/Bound Court]] each govern a quarter of the city.
 - **Culture:** Proud, orderly, industrious. Citizens view themselves as chosen stewards of the empire’s destiny, but tension simmers beneath the surface.
 
 Stormspire is **beautiful, proud, and oppressive**—a place where wonder and tyranny walk hand in hand. Citizens live better lives than those in the outer kingdoms but at the price of obedience to an immortal ruler and his elemental lieutenants.
@@ -21,14 +21,14 @@ The city's beating heart. Home to the **[[Stormspire Citadel]]**, a fortress-pal
 - Seat of the **[[Obsidian Cabal]]**, the imperial mage order that enforces magical law.
 - Heavily patrolled by the **[[Stormguard]]**, elite soldiers imbued with elemental wards.
 
-## 🔥 **The [[Crucible District]] (Forge Quarter, ruled by [[Vaeloris/Stormspire/Khazir]])**
+## 🔥 **The [[Crucible District]] (Forge Quarter, ruled by [[Vaeloris/Stormspire/Bound Court/Khazir]])**
 
 A thundering industrial sprawl of **foundries, forges, and smelters**, glowing day and night.
 
 - Weapons, armor, and magical constructs flow from this district to supply the empire's legions.
 - Fire genasi artisans and efreeti-smith apprentices work alongside mortal craftsmen.
 - Smoke stacks are vented skyward, carried away by enchanted winds to keep the city breathable.
-## 🌊 **The [[Sapphire Docks]] (Water Quarter, ruled by [[Vaeloris/Stormspire/Nerasa]])**
+## 🌊 **The [[Sapphire Docks]] (Water Quarter, ruled by [[Vaeloris/Stormspire/Bound Court/Nerasa]])**
 
 Elegant canals weave through markets and harbors where **exotic goods** arrive from distant lands.
 
@@ -41,10 +41,10 @@ Elegant canals weave through markets and harbors where **exotic goods** arrive f
 An airy district of slender spires, **sky bridges**, and airship docks, where the rich and the spies reside.
 
 - Air currents hum along suspension bridges and windmills.
-- Home to the **[[Guilds/Whisperwind Spire]]**, base of the imperial intelligence service.
+- Home to the **[[Vaeloris/Stormspire/Guilds/Whisperwind Spire]]**, base of the imperial intelligence service.
 - Aristocrats, scholars, and diplomats mingle in wind-swept gardens.
 
-### 🪨 **The [[Stoneward]] (Earth Quarter, ruled by [[Vaeloris/Stormspire/Vorak]])**
+## 🪨 **The [[Stoneward]] (Earth Quarter, ruled by [[Vaeloris/Stormspire/Bound Court/Vorak]])**
 
 The oldest part of the city, a district of **massive stone halls, workshops, and tunnels** burrowed into the plateau itself.
 
