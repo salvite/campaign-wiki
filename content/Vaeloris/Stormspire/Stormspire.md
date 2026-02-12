@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-11T22:09:51.903-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-11T22:17:23.840-08:00","cssclasses":""}
 ---
 
 Stormspire rises from a vast plateau, surrounded by steep cliffs and storm-wracked skies. It is a **marvel of elemental engineering**, blending polished marble streets, sky-piercing towers, and canals of flowing water. At its center, the **[[Stormspire Citadel]]**, seat of the [[Tempest Crown]], looms like a dagger pointing at the heavens.
@@ -60,7 +60,7 @@ The outer districts where merchants, farmers, travelers, and common folk live an
 - Guarded but less strictly controlled, making it fertile ground for intrigue and rebellion.
 - Festivals honoring the elements are held here, blending religious fervor and civic pride.
 
-# 🛡️ Defenses
+## 🛡️ Defenses
 
 - **Storm Wards:** Elemental shields crackle across the skies, deflecting sieges and airborne attacks.
 - **Bound Elementals:** Legions of elemental spirits guard the city, hidden in fountains, statues, and windmills.
@@ -78,7 +78,6 @@ The outer districts where merchants, farmers, travelers, and common folk live an
 - [[Vaeloris/Stormspire/Guilds/Azure Concord]] - Maritime Trade
 - [[Vaeloris/Stormspire/Guilds/Emberforge Consortium]] - Smithing armor and weapons
 - [[Vaeloris/Stormspire/Guilds/Iron Hand]] - Craftsman and laborers of all kinds
-
 - [[Vaeloris/Stormspire/Guilds/Stonewright League]] - Stonemasons and construction
-
 - [[Vaeloris/Stormspire/Guilds/Zephyr Syndicate]] - Airship Trade
+
