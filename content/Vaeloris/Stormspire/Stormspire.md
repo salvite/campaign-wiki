@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-11T22:17:23.840-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-11T22:29:17.531-08:00","cssclasses":""}
 ---
 
 Stormspire rises from a vast plateau, surrounded by steep cliffs and storm-wracked skies. It is a **marvel of elemental engineering**, blending polished marble streets, sky-piercing towers, and canals of flowing water. At its center, the **[[Stormspire Citadel]]**, seat of the [[Tempest Crown]], looms like a dagger pointing at the heavens.
@@ -60,20 +60,20 @@ The outer districts where merchants, farmers, travelers, and common folk live an
 - Guarded but less strictly controlled, making it fertile ground for intrigue and rebellion.
 - Festivals honoring the elements are held here, blending religious fervor and civic pride.
 
-## 🛡️ Defenses
+# 🛡️ Defenses
 
 - **Storm Wards:** Elemental shields crackle across the skies, deflecting sieges and airborne attacks.
 - **Bound Elementals:** Legions of elemental spirits guard the city, hidden in fountains, statues, and windmills.
 - **Stormguard:** Elite troops empowered with elemental sigils, trained by all four Courts.
 - **The [[Lightning Spire]]:** At the heart of the palace, this tower channels Vaerazhyr's latent storm magic. If activated, it can strike distant armies with bolts from the heavens.
 
-## ⛪ **Temples and Cults**
+# ⛪ **Temples and Cults**
 
 - The **Temple of the Four Winds:** Official temple venerating the elemental forces. Worship of the emperor as the divine mediator of the elements is subtly encouraged.
 - Local shrines to ancestors, luck spirits, and minor gods flourish among the common folk.
 
 
-## ⚒️ Guilds
+# ⚒️ Guilds
 - [[Vaeloris/Stormspire/Guilds/Argent Wardens]] - Adventurer's guild
 - [[Vaeloris/Stormspire/Guilds/Azure Concord]] - Maritime Trade
 - [[Vaeloris/Stormspire/Guilds/Emberforge Consortium]] - Smithing armor and weapons
