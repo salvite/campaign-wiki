@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-11T22:29:17.531-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-12T00:09:40.788-08:00","cssclasses":""}
 ---
 
 Stormspire rises from a vast plateau, surrounded by steep cliffs and storm-wracked skies. It is a **marvel of elemental engineering**, blending polished marble streets, sky-piercing towers, and canals of flowing water. At its center, the **[[Stormspire Citadel]]**, seat of the [[Tempest Crown]], looms like a dagger pointing at the heavens.
@@ -11,6 +11,7 @@ Stormspire rises from a vast plateau, surrounded by steep cliffs and storm-wrack
 Stormspire is **beautiful, proud, and oppressive**—a place where wonder and tyranny walk hand in hand. Citizens live better lives than those in the outer kingdoms but at the price of obedience to an immortal ruler and his elemental lieutenants.
 
 ![[z_assets/Stormspire.png]]
+![[z_assets/Stormspire.webp]]
 # Districts
 
 ## ⚡ The [[Tempest Crown]] (Imperial Quarter)
