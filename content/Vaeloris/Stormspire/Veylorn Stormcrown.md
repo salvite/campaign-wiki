@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T00:38:18.193-07:00","modified":"2026-02-24T22:44:35.265-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:38:18.193-07:00","modified":"2026-02-24T22:54:03.661-08:00","cssclasses":""}
 ---
 
 ## **Emperor of the Stormspire Empire**

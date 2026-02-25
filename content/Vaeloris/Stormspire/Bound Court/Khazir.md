@@ -1,12 +1,11 @@
 ---
-{"publish":true,"created":"2025-07-14T23:41:09.978-07:00","modified":"2026-02-24T22:44:35.265-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-14T23:41:09.978-07:00","modified":"2026-02-24T22:54:32.769-08:00","cssclasses":""}
 ---
 
 **The Flamebound**
 **Title:** _Lord of Cinders, The Ember-Wrought, Warlord of the Infernal Crucible_  
 **Element:** Fire  
 **Role:** Master of the empire’s forges, weapons, and military industrial might
-
 ![[z_assets/Khazir.png]]
 
 ---
