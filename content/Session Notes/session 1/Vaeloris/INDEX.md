@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.662-08:00","modified":"2026-02-24T22:18:40.966-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.662-08:00","modified":"2026-02-24T22:35:29.769-08:00","cssclasses":""}
 ---
 
 # Vaeloris Campaign Notes
