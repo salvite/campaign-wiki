@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-14T23:34:32.298-07:00","modified":"2026-02-24T19:27:59.494-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-14T23:34:32.298-07:00","modified":"2026-02-24T22:20:32.036-08:00","cssclasses":""}
 ---
 
 Though once rulers of their own elemental realms, the Bound Court now serves the [[Tempest Crown]]. Each built part of the empire in their own image, shaping its prosperity—and each now wrestles with their pride, ambition, and resentment over being subordinates to the seemingly immortal [[Vaeloris/Stormspire/Veylorn Stormcrown]].

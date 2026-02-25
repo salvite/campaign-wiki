@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-24T19:27:59.495-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-24T22:20:32.031-08:00","cssclasses":""}
 ---
 
 Stormspire rises from a vast plateau, surrounded by steep cliffs and storm-wracked skies. It is a **marvel of elemental engineering**, blending polished marble streets, sky-piercing towers, and canals of flowing water. At its center, the **[[Stormspire Citadel]]**, seat of the [[Tempest Crown]], looms like a dagger pointing at the heavens.
@@ -45,7 +45,7 @@ An airy district of slender spires, **sky bridges**, and airship docks, where th
 - Home to the **[[Vaeloris/Stormspire/Guilds/Whisperwind Spire]]**, base of the imperial intelligence service.
 - Aristocrats, scholars, and diplomats mingle in wind-swept gardens.
 
-## 🪨 **The [[Stoneward]] (Earth Quarter, ruled by [[Vaeloris/Stormspire/Bound Court/Vorak]])**
+## 🪨 **The [[Vaeloris/Stormspire/Stoneward/Stoneward]] (Earth Quarter, ruled by [[Vaeloris/Stormspire/Bound Court/Vorak]])**
 
 The oldest part of the city, a district of **massive stone halls, workshops, and tunnels** burrowed into the plateau itself.
 
