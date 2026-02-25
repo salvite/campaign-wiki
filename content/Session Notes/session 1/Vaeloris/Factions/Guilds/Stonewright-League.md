@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.673-08:00","modified":"2026-02-24T22:08:10.014-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.673-08:00","modified":"2026-02-24T22:14:35.158-08:00","cssclasses":""}
 ---
 
 # Stonewright League
