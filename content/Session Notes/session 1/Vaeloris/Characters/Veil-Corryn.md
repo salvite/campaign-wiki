@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.667-08:00","modified":"2026-02-24T22:43:47.730-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.667-08:00","modified":"2026-02-24T23:05:37.190-08:00","cssclasses":""}
 ---
 
 # Veil Corryn
 
 **Race/Type:** Unknown
 **Role:** Second-in-command of the Argent Wardens
-**Affiliation:** [Argent Wardens](../Factions/Guilds/Argent-Wardens.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Common Ring
+**Affiliation:** [Argent Wardens](Session%20Notes/session%201/Vaeloris/Factions/Guilds/Argent-Wardens.md)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Common Ring
 **Status:** Active
 
 ---
@@ -22,7 +22,7 @@
 
 ## Background
 
-Second-in-command of the Argent Wardens, serving under Guildmaster [Varaen Thorne](Varaen-Thorne.md). Responsible for assigning missions to guild members and recruits.
+Second-in-command of the Argent Wardens, serving under Guildmaster [Varaen Thorne](Session%20Notes/session%201/Vaeloris/Characters/Varaen-Thorne.md). Responsible for assigning missions to guild members and recruits.
 
 ## Abilities / Resources
 
@@ -33,10 +33,10 @@ Second-in-command of the Argent Wardens, serving under Guildmaster [Varaen Thorn
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Varaen Thorne](Varaen-Thorne.md) | Superior | Guildmaster of the Argent Wardens |
-| [James Everett](James-Everett.md) | Quest giver | Assigned introductory mission |
-| [Tolliver Wist](Tolliver-Wist.md) | Quest giver | Assigned introductory mission |
-| [Octavia](Octavia.md) | Quest giver | Assigned introductory mission |
+| [Varaen Thorne](Session%20Notes/session%201/Vaeloris/Characters/Varaen-Thorne.md) | Superior | Guildmaster of the Argent Wardens |
+| [James Everett](Session%20Notes/session%201/Vaeloris/Characters/James-Everett.md) | Quest giver | Assigned introductory mission |
+| [Tolliver Wist](Session%20Notes/session%201/Vaeloris/Characters/Tolliver-Wist.md) | Quest giver | Assigned introductory mission |
+| [Octavia](Session%20Notes/session%201/Vaeloris/Characters/Octavia.md) | Quest giver | Assigned introductory mission |
 
 ## Session Appearances
 

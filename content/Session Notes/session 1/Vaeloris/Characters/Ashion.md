@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.663-08:00","modified":"2026-02-24T22:43:47.650-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.663-08:00","modified":"2026-02-24T23:05:37.156-08:00","cssclasses":""}
 ---
 
 # Ashion
@@ -7,7 +7,7 @@
 **Race/Type:** Tiefling (child)
 **Role:** Orphan at the Hollow Hearth; recruited as lookout by James
 **Affiliation:** Hollow Hearth orphanage
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward (Hollow Hearth orphanage)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Stoneward (Hollow Hearth orphanage)
 **Status:** Active
 
 ---
@@ -22,7 +22,7 @@ Small tiefling child. Further details not yet established.
 
 ## Background
 
-A tiefling child at the Hollow Hearth orphanage. [James Everett](James-Everett.md) instructed Ashion to inscribe a symbol in Thieves' Cant on the outside of the building if another child is interviewed by the suspicious men.
+A tiefling child at the Hollow Hearth orphanage. [James Everett](Session%20Notes/session%201/Vaeloris/Characters/James-Everett.md) instructed Ashion to inscribe a symbol in Thieves' Cant on the outside of the building if another child is interviewed by the suspicious men.
 
 ## Abilities / Resources
 
@@ -32,8 +32,8 @@ A tiefling child at the Hollow Hearth orphanage. [James Everett](James-Everett.m
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [James Everett](James-Everett.md) | Recruited by | Tasked as a lookout |
-| [Ms. Thornbloom](Ms-Thornbloom.md) | Caretaker | Orphanage headmistress |
+| [James Everett](Session%20Notes/session%201/Vaeloris/Characters/James-Everett.md) | Recruited by | Tasked as a lookout |
+| [Ms. Thornbloom](Session%20Notes/session%201/Vaeloris/Characters/Ms-Thornbloom.md) | Caretaker | Orphanage headmistress |
 
 ## Session Appearances
 

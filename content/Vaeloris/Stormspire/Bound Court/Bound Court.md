@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-07-14T23:34:32.298-07:00","modified":"2026-02-24T22:44:21.179-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-14T23:34:32.298-07:00","modified":"2026-02-24T23:08:34.006-08:00","cssclasses":""}
 ---
 
-Though once rulers of their own elemental realms, the Bound Court now serves the [[Tempest Crown]]. Each built part of the empire in their own image, shaping its prosperity—and each now wrestles with their pride, ambition, and resentment over being subordinates to the seemingly immortal [[Vaeloris/Stormspire/Veylorn Stormcrown]].
+Though once rulers of their own elemental realms, the Bound Court now serves the [[Tempest Crown]]. Each built part of the empire in their own image, shaping its prosperity—and each now wrestles with their pride, ambition, and resentment over being subordinates to the seemingly immortal [Veylorn Stormcrown](Vaeloris/Stormspire/Veylorn%20Stormcrown.md)
 
-## 🔥 **[[Vaeloris/Stormspire/Bound Court/Khazir]], the Flame-Tongued (Efreeti of Fire)**
+## 🔥 **[Khazir](Vaeloris/Stormspire/Bound%20Court/Khazir.md), the Flame-Tongued (Efreeti of Fire)**
 
 ### _Title: Lord of Flame, Master of Forge and Fury_
 
@@ -21,7 +21,7 @@ Though once rulers of their own elemental realms, the Bound Court now serves the
 
 ---
 
-## 🌊 **[[Vaeloris/Stormspire/Bound Court/Nerasa]], the Deep Current (Marid of Water)**
+## 🌊 **[Nerasa](Vaeloris/Stormspire/Bound%20Court/Nerasa.md), the Deep Current (Marid of Water)**
 
 ### _Title: Mistress of Tides, Queen of the Sapphire Coast_
 
@@ -38,7 +38,7 @@ Though once rulers of their own elemental realms, the Bound Court now serves the
 
 ---
 
-## 🌪️ **[[Vaeloris/Stormspire/Bound Court/Thal'jin]], the Whispering Gale (Djinni of Air)**
+## 🌪️ **[Thal'jin](Vaeloris/Stormspire/Bound%20Court/Thal'jin.md), the Whispering Gale (Djinni of Air)**
 
 ### _Title: Prince of the Skies, Keeper of Secrets_
 
@@ -55,7 +55,7 @@ Though once rulers of their own elemental realms, the Bound Court now serves the
 
 ---
 
-## 🪨 **[[Vaeloris/Stormspire/Bound Court/Vorak]], the Unmoving (Dao of Earth)**
+## 🪨 **[Vorak](Vaeloris/Stormspire/Bound%20Court/Vorak.md), the Unmoving (Dao of Earth)**
 
 ### _Title: Lord of Stone, Pillar of the Empire_
 

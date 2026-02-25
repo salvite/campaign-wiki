@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.667-08:00","modified":"2026-02-24T22:43:47.732-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.667-08:00","modified":"2026-02-24T23:05:37.196-08:00","cssclasses":""}
 ---
 
 # Zarnak Ironflame
 
 **Race/Type:** Fire Genasi
 **Role:** Forge-Master of the Emberforge Consortium
-**Affiliation:** [Emberforge Consortium](../Factions/Guilds/Emberforge-Consortium.md), tied to [Khazir](Khazir.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Crucible District
+**Affiliation:** [Emberforge Consortium](Session%20Notes/session%201/Vaeloris/Factions/Guilds/Emberforge-Consortium.md), tied to [Khazir](Session%20Notes/session%201/Vaeloris/Characters/Khazir.md)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Crucible District
 **Status:** Active
 
 ---
@@ -35,7 +35,7 @@ Leads the Emberforge Consortium, managing all weapons manufacturing and elementa
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Khazir](Khazir.md) | Superior / patron | Serves under Khazir's oversight |
+| [Khazir](Session%20Notes/session%201/Vaeloris/Characters/Khazir.md) | Superior / patron | Serves under Khazir's oversight |
 
 ## Session Appearances
 

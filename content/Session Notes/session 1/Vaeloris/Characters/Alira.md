@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.662-08:00","modified":"2026-02-24T22:43:47.648-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.662-08:00","modified":"2026-02-24T23:05:37.155-08:00","cssclasses":""}
 ---
 
 # Alira
 
 **Race/Type:** Unknown (child)
 **Role:** Missing child with magical promise
-**Affiliation:** Ms. Thornbloom's orphanage; noted by [Argent Wardens](../Factions/Guilds/Argent-Wardens.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward (last seen at the Hollow Hearth orphanage)
+**Affiliation:** Ms. Thornbloom's orphanage; noted by [Argent Wardens](Session%20Notes/session%201/Vaeloris/Factions/Guilds/Argent-Wardens.md)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Stoneward (last seen at the Hollow Hearth orphanage)
 **Status:** Missing
 
 ---
@@ -22,7 +22,7 @@
 
 ## Background
 
-A child at the Hollow Hearth orphanage (run by [Ms. Thornbloom](Ms-Thornbloom.md)) in the Stoneward district of Stormspire. Identified by the Argent Wardens as having some magical promise valuable to the guild. Went missing, prompting the Wardens to send the party to investigate. Alira is one of six magically talented children who have disappeared from the orphanage. Men claiming to be from various guilds would interview the children, who would then vanish in the night without explanation.
+A child at the Hollow Hearth orphanage (run by [Ms. Thornbloom](Session%20Notes/session%201/Vaeloris/Characters/Ms-Thornbloom.md)) in the Stoneward district of Stormspire. Identified by the Argent Wardens as having some magical promise valuable to the guild. Went missing, prompting the Wardens to send the party to investigate. Alira is one of six magically talented children who have disappeared from the orphanage. Men claiming to be from various guilds would interview the children, who would then vanish in the night without explanation.
 
 ## Abilities / Resources
 
@@ -33,7 +33,7 @@ A child at the Hollow Hearth orphanage (run by [Ms. Thornbloom](Ms-Thornbloom.md
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Ms. Thornbloom](Ms-Thornbloom.md) | Caretaker | Orphanage headmistress |
+| [Ms. Thornbloom](Session%20Notes/session%201/Vaeloris/Characters/Ms-Thornbloom.md) | Caretaker | Orphanage headmistress |
 
 ## Session Appearances
 

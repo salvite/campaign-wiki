@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.665-08:00","modified":"2026-02-24T22:43:47.714-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.665-08:00","modified":"2026-02-24T23:05:37.162-08:00","cssclasses":""}
 ---
 
 # Ms. Thornbloom
@@ -7,7 +7,7 @@
 **Race/Type:** Unknown
 **Role:** Orphanage headmistress
 **Affiliation:** None established
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward (the Hollow Hearth orphanage)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Stoneward (the Hollow Hearth orphanage)
 **Status:** Active
 
 ---
@@ -22,7 +22,7 @@
 
 ## Background
 
-Runs the Hollow Hearth orphanage in the Stoneward district of Stormspire. When the party investigated the disappearance of [Alira](Alira.md), Ms. Thornbloom admitted that Alira was not the only missing child -- a total of six children have been taken. Men claiming to be members of various guilds would visit the orphanage, interview children, and then those children would later disappear from the orphanage in the night without explanation. All of the missing children were magically talented.
+Runs the Hollow Hearth orphanage in the Stoneward district of Stormspire. When the party investigated the disappearance of [Alira](Session%20Notes/session%201/Vaeloris/Characters/Alira.md), Ms. Thornbloom admitted that Alira was not the only missing child -- a total of six children have been taken. Men claiming to be members of various guilds would visit the orphanage, interview children, and then those children would later disappear from the orphanage in the night without explanation. All of the missing children were magically talented.
 
 ## Abilities / Resources
 
@@ -32,8 +32,8 @@ Runs the Hollow Hearth orphanage in the Stoneward district of Stormspire. When t
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Alira](Alira.md) | Charge | One of six missing magically talented children |
-| [Keff](Keff.md) | Charge | Halfling child still at the orphanage; interviewed by the party |
+| [Alira](Session%20Notes/session%201/Vaeloris/Characters/Alira.md) | Charge | One of six missing magically talented children |
+| [Keff](Session%20Notes/session%201/Vaeloris/Characters/Keff.md) | Charge | Halfling child still at the orphanage; interviewed by the party |
 
 ## Session Appearances
 

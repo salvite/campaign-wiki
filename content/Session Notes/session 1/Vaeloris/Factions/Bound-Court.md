@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.668-08:00","modified":"2026-02-24T22:43:47.733-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.668-08:00","modified":"2026-02-24T23:05:37.197-08:00","cssclasses":""}
 ---
 
 # Bound Court
 
 **Type:** Ruling Council (elemental sovereigns)
-**Leader:** Serves under [Veylorn Stormcrown](../Characters/Veylorn-Stormcrown.md)
-**Base:** [Stormspire](../Locations/Stormspire.md) -- each member rules one quarter
+**Leader:** Serves under [Veylorn Stormcrown](Session%20Notes/session%201/Vaeloris/Characters/Veylorn-Stormcrown.md)
+**Base:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- each member rules one quarter
 **Allegiance:** Bound to the Stormcrown (reluctantly)
 
 ---
@@ -19,10 +19,10 @@ Four elemental djinn who once ruled their own realms, now bound to serve Veylorn
 
 | Member | Element | Domain | Quarter | File |
 |--------|---------|--------|---------|------|
-| Khazir | Fire (Efreeti) | Forges, military, war machines | Crucible District | [File](../Characters/Khazir.md) |
-| Nerasa | Water (Marid) | Commerce, navy, dreams | Sapphire Docks | [File](../Characters/Nerasa.md) |
-| Thal'jin | Air (Djinni) | Espionage, airships, weather | Zephyr Heights | [File](../Characters/Thaljin.md) |
-| Vorak | Earth (Dao) | Construction, mining, fortifications | Stoneward | [File](../Characters/Vorak.md) |
+| Khazir | Fire (Efreeti) | Forges, military, war machines | Crucible District | [File](Session%20Notes/session%201/Vaeloris/Characters/Khazir.md) |
+| Nerasa | Water (Marid) | Commerce, navy, dreams | Sapphire Docks | [File](Session%20Notes/session%201/Vaeloris/Characters/Nerasa.md) |
+| Thal'jin | Air (Djinni) | Espionage, airships, weather | Zephyr Heights | [File](Session%20Notes/session%201/Vaeloris/Characters/Thaljin.md) |
+| Vorak | Earth (Dao) | Construction, mining, fortifications | Stoneward | [File](Session%20Notes/session%201/Vaeloris/Characters/Vorak.md) |
 
 ## Goals
 
@@ -42,7 +42,7 @@ All four members resent their subordination to Veylorn. This resentment manifest
 
 | Faction | Stance | Notes |
 |---------|--------|-------|
-| [Stormcrown Empire](Stormcrown-Empire.md) | Bound service | Essential but resentful pillars |
+| [Stormcrown Empire](Session%20Notes/session%201/Vaeloris/Factions/Stormcrown-Empire.md) | Bound service | Essential but resentful pillars |
 | Each other | Competitive rivalry | Peer tension within the court |
 
 ## Session Appearances

@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.664-08:00","modified":"2026-02-24T22:43:47.714-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.664-08:00","modified":"2026-02-24T23:05:37.160-08:00","cssclasses":""}
 ---
 
 # Marik Voss
 
 **Race/Type:** Unknown (likely human)
 **Role:** Leader of the Iron Hand
-**Affiliation:** [Iron Hand](../Factions/Guilds/Iron-Hand.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Common Ring
+**Affiliation:** [Iron Hand](Session%20Notes/session%201/Vaeloris/Factions/Guilds/Iron-Hand.md)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Common Ring
 **Status:** Active
 
 ---
@@ -33,7 +33,7 @@ Former soldier turned worker-champion. Leads the largest labor organization in S
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Veylorn Stormcrown](Veylorn-Stormcrown.md) | Imperial subject | Potential revolutionary threat |
+| [Veylorn Stormcrown](Session%20Notes/session%201/Vaeloris/Characters/Veylorn-Stormcrown.md) | Imperial subject | Potential revolutionary threat |
 
 ## Session Appearances
 

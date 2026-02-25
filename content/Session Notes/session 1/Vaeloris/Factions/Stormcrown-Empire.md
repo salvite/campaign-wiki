@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.668-08:00","modified":"2026-02-24T22:43:47.740-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.668-08:00","modified":"2026-02-24T23:05:37.197-08:00","cssclasses":""}
 ---
 
 # Stormcrown Empire
 
 **Type:** Nation
-**Leader:** [Veylorn Stormcrown](../Characters/Veylorn-Stormcrown.md)
-**Base:** [Stormspire](../Locations/Stormspire.md)
+**Leader:** [Veylorn Stormcrown](Session%20Notes/session%201/Vaeloris/Characters/Veylorn-Stormcrown.md)
+**Base:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md)
 **Allegiance:** Self-governing imperial power
 
 ---
@@ -24,7 +24,7 @@ The dominant power in central Vaeloris, founded over 800 years ago by Emperor Ve
 ## Structure
 
 - **Absolute monarch:** Emperor Veylorn Stormcrown
-- **Administrative council:** The [Bound Court](Bound-Court.md) (four elemental genie sovereigns)
+- **Administrative council:** The [Bound Court](Session%20Notes/session%201/Vaeloris/Factions/Bound-Court.md) (four elemental genie sovereigns)
 - **Guilds:** Six major guilds handle day-to-day commerce and labor
 - **Military:** Elite Stormguard + conventional forces under Khazir's indirect command
 
@@ -46,11 +46,11 @@ Three pillars of control:
 
 | Name | Role | File |
 |------|------|------|
-| Veylorn Stormcrown | Emperor | [File](../Characters/Veylorn-Stormcrown.md) |
-| Khazir | Bound Court (Fire) | [File](../Characters/Khazir.md) |
-| Nerasa | Bound Court (Water) | [File](../Characters/Nerasa.md) |
-| Thal'jin | Bound Court (Air) | [File](../Characters/Thaljin.md) |
-| Vorak | Bound Court (Earth) | [File](../Characters/Vorak.md) |
+| Veylorn Stormcrown | Emperor | [File](Session%20Notes/session%201/Vaeloris/Characters/Veylorn-Stormcrown.md) |
+| Khazir | Bound Court (Fire) | [File](Session%20Notes/session%201/Vaeloris/Characters/Khazir.md) |
+| Nerasa | Bound Court (Water) | [File](Session%20Notes/session%201/Vaeloris/Characters/Nerasa.md) |
+| Thal'jin | Bound Court (Air) | [File](Session%20Notes/session%201/Vaeloris/Characters/Thaljin.md) |
+| Vorak | Bound Court (Earth) | [File](Session%20Notes/session%201/Vaeloris/Characters/Vorak.md) |
 
 ## Relationships
 

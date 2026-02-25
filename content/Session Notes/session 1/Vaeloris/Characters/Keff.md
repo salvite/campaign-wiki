@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.664-08:00","modified":"2026-02-24T22:43:47.710-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.664-08:00","modified":"2026-02-24T23:05:37.159-08:00","cssclasses":""}
 ---
 
 # Keff
@@ -7,7 +7,7 @@
 **Race/Type:** Halfling (child)
 **Role:** Orphan at the Hollow Hearth; potential witness
 **Affiliation:** Hollow Hearth orphanage
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward (Hollow Hearth orphanage)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Stoneward (Hollow Hearth orphanage)
 **Status:** Active
 
 ---
@@ -32,8 +32,8 @@ A halfling child at the Hollow Hearth orphanage. Interviewed by the party during
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Ms. Thornbloom](Ms-Thornbloom.md) | Caretaker | Orphanage headmistress |
-| [Alira](Alira.md) | Fellow orphan | One of the missing children |
+| [Ms. Thornbloom](Session%20Notes/session%201/Vaeloris/Characters/Ms-Thornbloom.md) | Caretaker | Orphanage headmistress |
+| [Alira](Session%20Notes/session%201/Vaeloris/Characters/Alira.md) | Fellow orphan | One of the missing children |
 
 ## Session Appearances
 

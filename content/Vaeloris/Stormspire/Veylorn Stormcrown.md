@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T00:38:18.193-07:00","modified":"2026-02-24T23:02:23.086-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:38:18.193-07:00","modified":"2026-02-24T23:11:55.236-08:00","cssclasses":""}
 ---
 
 ## **Emperor of the Stormspire Empire**
@@ -36,7 +36,7 @@
 
 - **Formal Titles:**
     
-    - **“Stormcrown, Sovereign of [[Vaeloris/Vaeloris]]”**
+    - **“Stormcrown, Sovereign of [Vaeloris](Vaeloris/Vaeloris.md)”**
         
     - **“The Everlasting Tempest”**
         
@@ -66,7 +66,7 @@
 
 ### 📜 **The Birth of Veylorn**
 
-According to imperial chronicles, **Veylorn Stormcrown** was **born during the Stormfall**, a cataclysmic tempest 800 years ago that shook the foundations of [[Vaeloris/Vaeloris]]. Lightning split the skies for seven days, mountains crumbled, and seas boiled—until, amidst the chaos, a child was discovered.
+According to imperial chronicles, **Veylorn Stormcrown** was **born during the Stormfall**, a cataclysmic tempest 800 years ago that shook the foundations of [Vaeloris](Vaeloris/Vaeloris.md). Lightning split the skies for seven days, mountains crumbled, and seas boiled—until, amidst the chaos, a child was discovered.
 
 - **Found in the Storm:** Shepherds of the **Vaelthyr Highlands** claimed to have found an infant swaddled in storm-wreathed cloth at the heart of a lightning crater. His first cry silenced the winds.
 
@@ -85,7 +85,7 @@ According to imperial chronicles, **Veylorn Stormcrown** was **born during the S
 
 - **Divine Origins:** Some claim Veylorn was the **son of the storm god [[Vaelos]]**, born to bring balance between the elements and mortal realms.
 
-- **Chosen of the Elements:** Others say he was a mortal imbued with the power of the Four Elements, gifted by the [[Vaeloris/Stormspire/Bound Court/Bound Court]] to stabilize the chaos of their ancient wars.
+- **Chosen of the Elements:** Others say he was a mortal imbued with the power of the Four Elements, gifted by the [Bound Court](Vaeloris/Stormspire/Bound%20Court/Bound%20Court.md) to stabilize the chaos of their ancient wars.
 
 - **The Living Crown:** Myths hold that the **[[Stormcrown]] fused to his spirit**, granting him unnaturally long life, wisdom, and the power to command storms.
 

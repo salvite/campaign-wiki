@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.666-08:00","modified":"2026-02-24T22:43:47.725-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.666-08:00","modified":"2026-02-24T23:05:37.166-08:00","cssclasses":""}
 ---
 
 # Thal'jin
 
 **Race/Type:** Djinni (Air Genie)
 **Role:** Bound Court member -- Prince of the Skies
-**Affiliation:** [Bound Court](../Factions/Bound-Court.md), [Zephyr Syndicate](../Factions/Guilds/Zephyr-Syndicate.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Zephyr Heights (Air Quarter)
+**Affiliation:** [Bound Court](Session%20Notes/session%201/Vaeloris/Factions/Bound-Court.md), [Zephyr Syndicate](Session%20Notes/session%201/Vaeloris/Factions/Guilds/Zephyr-Syndicate.md)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Zephyr Heights (Air Quarter)
 **Status:** Active
 
 ---
@@ -42,11 +42,11 @@ Once ruled his own air realm before being bound to serve the Stormcrown. Built t
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Veylorn Stormcrown](Veylorn-Stormcrown.md) | Master (resented) | Questions orders, resents confinement |
-| [Sythros Vale](Sythros-Vale.md) | Subordinate guild leader | Gale-King of the Zephyr Syndicate |
-| [Khazir](Khazir.md) | Rival/peer | Fellow Bound Court member |
-| [Nerasa](Nerasa.md) | Rival/peer | Fellow Bound Court member |
-| [Vorak](Vorak.md) | Rival/peer | Fellow Bound Court member |
+| [Veylorn Stormcrown](Session%20Notes/session%201/Vaeloris/Characters/Veylorn-Stormcrown.md) | Master (resented) | Questions orders, resents confinement |
+| [Sythros Vale](Session%20Notes/session%201/Vaeloris/Characters/Sythros-Vale.md) | Subordinate guild leader | Gale-King of the Zephyr Syndicate |
+| [Khazir](Session%20Notes/session%201/Vaeloris/Characters/Khazir.md) | Rival/peer | Fellow Bound Court member |
+| [Nerasa](Session%20Notes/session%201/Vaeloris/Characters/Nerasa.md) | Rival/peer | Fellow Bound Court member |
+| [Vorak](Session%20Notes/session%201/Vaeloris/Characters/Vorak.md) | Rival/peer | Fellow Bound Court member |
 
 ## Session Appearances
 

@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.672-08:00","modified":"2026-02-24T22:43:47.754-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.672-08:00","modified":"2026-02-24T23:05:37.212-08:00","cssclasses":""}
 ---
 
 # Azure Concord
 
 **Type:** Guild (Trade / Banking)
-**Leader:** [Ilyra Moondrift](../../Characters/Ilyra-Moondrift.md) -- Matron
-**Base:** [Stormspire](../../Locations/Stormspire.md) -- Sapphire Docks
-**Allegiance:** [Nerasa](../../Characters/Nerasa.md) (Water element)
+**Leader:** [Ilyra Moondrift](Session%20Notes/session%201/Vaeloris/Characters/Ilyra-Moondrift.md) -- Matron
+**Base:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Sapphire Docks
+**Allegiance:** [Nerasa](Session%20Notes/session%201/Vaeloris/Characters/Nerasa.md) (Water element)
 
 ---
 
@@ -32,15 +32,15 @@ Elegant, wealthy, and diplomatic.
 
 | Name | Role | File |
 |------|------|------|
-| Ilyra Moondrift | Matron | [File](../../Characters/Ilyra-Moondrift.md) |
+| Ilyra Moondrift | Matron | [File](Session%20Notes/session%201/Vaeloris/Characters/Ilyra-Moondrift.md) |
 
 ## Relationships
 
 | Faction | Stance | Notes |
 |---------|--------|-------|
 | Stormcrown Empire | Aligned | Economic backbone |
-| [Nerasa](../../Characters/Nerasa.md) | Patron | Direct elemental oversight |
-| [Sapphire Coast](../../Locations/Sapphire-Coast.md) | Trade partners | Overseas connections |
+| [Nerasa](Session%20Notes/session%201/Vaeloris/Characters/Nerasa.md) | Patron | Direct elemental oversight |
+| [Sapphire Coast](Session%20Notes/session%201/Vaeloris/Locations/Sapphire-Coast.md) | Trade partners | Overseas connections |
 
 ## Session Appearances
 

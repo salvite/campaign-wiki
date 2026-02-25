@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.666-08:00","modified":"2026-02-24T22:43:47.725-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.666-08:00","modified":"2026-02-24T23:05:37.169-08:00","cssclasses":""}
 ---
 
 # Tolliver Wist
 
 **Race/Type:** Halfling
 **Role:** PC
-**Affiliation:** [Argent Wardens](../Factions/Guilds/Argent-Wardens.md) (new recruit)
-**Location:** [Stormspire](../Locations/Stormspire.md)
+**Affiliation:** [Argent Wardens](Session%20Notes/session%201/Vaeloris/Factions/Guilds/Argent-Wardens.md) (new recruit)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md)
 **Status:** Active
 
 ---
@@ -32,9 +32,9 @@ A halfling from the city of Stormspire. Has a shady reputation or demeanor. Join
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [James Everett](James-Everett.md) | Fellow party member | PC |
-| [Octavia](Octavia.md) | Fellow party member | PC |
-| [Veil Corryn](Veil-Corryn.md) | Quest giver | Assigned introductory mission |
+| [James Everett](Session%20Notes/session%201/Vaeloris/Characters/James-Everett.md) | Fellow party member | PC |
+| [Octavia](Session%20Notes/session%201/Vaeloris/Characters/Octavia.md) | Fellow party member | PC |
+| [Veil Corryn](Session%20Notes/session%201/Vaeloris/Characters/Veil-Corryn.md) | Quest giver | Assigned introductory mission |
 
 ## Session Appearances
 

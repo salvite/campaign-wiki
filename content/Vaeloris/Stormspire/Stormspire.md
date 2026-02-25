@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-24T23:02:23.084-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-24T23:11:18.379-08:00","cssclasses":""}
 ---
 
 Stormspire rises from a vast plateau, surrounded by steep cliffs and storm-wracked skies. It is a **marvel of elemental engineering**, blending polished marble streets, sky-piercing towers, and canals of flowing water. At its center, the **[[Stormspire Citadel]]**, seat of the [[Tempest Crown]], looms like a dagger pointing at the heavens.
 
 - **Population:** ~1.5 million (humans, dwarves, elves, orcs, genasi, and others)
-- **Government:** Absolute monarchy ruled by Emperor [[Vaeloris/Stormspire/Veylorn Stormcrown]]; the [[Vaeloris/Stormspire/Bound Court/Bound Court]] each govern a quarter of the city.
+- **Government:** Absolute monarchy ruled by Emperor [Veylorn Stormcrown](Vaeloris/Stormspire/Veylorn%20Stormcrown.md); the [Bound Court](Vaeloris/Stormspire/Bound%20Court/Bound%20Court.md) each govern a quarter of the city.
 - **Culture:** Proud, orderly, industrious. Citizens view themselves as chosen stewards of the empire’s destiny, but tension simmers beneath the surface.
 
 Stormspire is **beautiful, proud, and oppressive**—a place where wonder and tyranny walk hand in hand. Citizens live better lives than those in the outer kingdoms but at the price of obedience to an immortal ruler and his elemental lieutenants.
@@ -22,14 +22,14 @@ The city's beating heart. Home to the **[[Stormspire Citadel]]**, a fortress-pal
 - Seat of the **[[Obsidian Cabal]]**, the imperial mage order that enforces magical law.
 - Heavily patrolled by the **[[Stormguard]]**, elite soldiers imbued with elemental wards.
 
-## 🔥 **The [[Crucible District]] (Forge Quarter, ruled by [[Vaeloris/Stormspire/Bound Court/Khazir]])**
+## 🔥 **The [[Crucible District]] (Forge Quarter, ruled by [Khazir](Vaeloris/Stormspire/Bound%20Court/Khazir.md))**
 
 A thundering industrial sprawl of **foundries, forges, and smelters**, glowing day and night.
 
 - Weapons, armor, and magical constructs flow from this district to supply the empire's legions.
 - Fire genasi artisans and efreeti-smith apprentices work alongside mortal craftsmen.
 - Smoke stacks are vented skyward, carried away by enchanted winds to keep the city breathable.
-## 🌊 **The [[Sapphire Docks]] (Water Quarter, ruled by [[Vaeloris/Stormspire/Bound Court/Nerasa]])**
+## 🌊 **The [[Sapphire Docks]] (Water Quarter, ruled by [Nerasa](Vaeloris/Stormspire/Bound%20Court/Nerasa.md))**
 
 Elegant canals weave through markets and harbors where **exotic goods** arrive from distant lands.
 
@@ -45,7 +45,7 @@ An airy district of slender spires, **sky bridges**, and airship docks, where th
 - Home to the **[[Vaeloris/Stormspire/Guilds/Whisperwind Spire]]**, base of the imperial intelligence service.
 - Aristocrats, scholars, and diplomats mingle in wind-swept gardens.
 
-## 🪨 **The [[Vaeloris/Stormspire/Stoneward/Stoneward]] (Earth Quarter, ruled by [[Vaeloris/Stormspire/Bound Court/Vorak]])**
+## 🪨 **The [Stoneward](Vaeloris/Stormspire/Stoneward/Stoneward.md) (Earth Quarter, ruled by [Vorak](Vaeloris/Stormspire/Bound%20Court/Vorak.md))**
 
 The oldest part of the city, a district of **massive stone halls, workshops, and tunnels** burrowed into the plateau itself.
 
@@ -75,10 +75,10 @@ The outer districts where merchants, farmers, travelers, and common folk live an
 
 
 # ⚒️ Guilds
-- [[Vaeloris/Stormspire/Guilds/Argent Wardens]] - Adventurer's guild
-- [[Vaeloris/Stormspire/Guilds/Azure Concord]] - Maritime Trade
-- [[Vaeloris/Stormspire/Guilds/Emberforge Consortium]] - Smithing armor and weapons
-- [[Vaeloris/Stormspire/Guilds/Iron Hand]] - Craftsman and laborers of all kinds
-- [[Vaeloris/Stormspire/Guilds/Stonewright League]] - Stonemasons and construction
-- [[Vaeloris/Stormspire/Guilds/Zephyr Syndicate]] - Airship Trade
+- [Argent Wardens](Vaeloris/Stormspire/Guilds/Argent%20Wardens.md) - Adventurer's guild
+- [Azure Concord](Vaeloris/Stormspire/Guilds/Azure%20Concord.md) - Maritime Trade
+- [Emberforge Consortium](Vaeloris/Stormspire/Guilds/Emberforge%20Consortium.md) - Smithing armor and weapons
+- [Iron Hand](Vaeloris/Stormspire/Guilds/Iron%20Hand.md) - Craftsman and laborers of all kinds
+- [Stonewright League](Vaeloris/Stormspire/Guilds/Stonewright%20League.md) - Stonemasons and construction
+- [Zephyr Syndicate](Vaeloris/Stormspire/Guilds/Zephyr%20Syndicate.md) - Airship Trade
 

@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.666-08:00","modified":"2026-02-24T22:43:47.729-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.666-08:00","modified":"2026-02-24T23:05:37.181-08:00","cssclasses":""}
 ---
 
 # Varaen Thorne
 
 **Race/Type:** Unknown (likely human)
 **Role:** Guildmaster of the Argent Wardens
-**Affiliation:** [Argent Wardens](../Factions/Guilds/Argent-Wardens.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Common Ring
+**Affiliation:** [Argent Wardens](Session%20Notes/session%201/Vaeloris/Factions/Guilds/Argent-Wardens.md)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Common Ring
 **Status:** Active
 
 ---
@@ -33,7 +33,7 @@ Retired war hero turned guildmaster. Leads the empire's premier adventuring guil
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Veylorn Stormcrown](Veylorn-Stormcrown.md) | Imperial subject | Rumors say he secretly reports to the Whisperwind Spire |
+| [Veylorn Stormcrown](Session%20Notes/session%201/Vaeloris/Characters/Veylorn-Stormcrown.md) | Imperial subject | Rumors say he secretly reports to the Whisperwind Spire |
 
 ## Session Appearances
 
