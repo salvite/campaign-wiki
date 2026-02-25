@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.663-08:00","modified":"2026-02-24T19:44:59.827-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.663-08:00","modified":"2026-02-24T22:08:09.972-08:00","cssclasses":""}
 ---
 
 # Ilyra Moondrift
 
 **Race/Type:** Water Genasi
 **Role:** Matron of the Azure Concord
-**Affiliation:** [Azure Concord](../Factions/Guilds/Azure-Concord.md), tied to [Nerasa](Nerasa.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Sapphire Docks
+**Affiliation:** [Azure Concord](Azure-Concord.md), tied to [Nerasa](Session%20Notes/session%201/Vaeloris/Characters/Nerasa.md)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Sapphire Docks
 **Status:** Active
 
 ---
@@ -35,7 +35,7 @@ Influential water genasi who commands the empire's most powerful trade guild.
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Nerasa](Nerasa.md) | Superior / patron | Serves under Nerasa's oversight |
+| [Nerasa](Session%20Notes/session%201/Vaeloris/Characters/Nerasa.md) | Superior / patron | Serves under Nerasa's oversight |
 
 ## Session Appearances
 

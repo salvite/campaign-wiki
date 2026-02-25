@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.673-08:00","modified":"2026-02-24T19:45:13.684-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.673-08:00","modified":"2026-02-24T22:08:10.018-08:00","cssclasses":""}
 ---
 
 # Zephyr Syndicate
 
 **Type:** Guild (Trade / Smuggling / Espionage)
-**Leader:** [Sythros Vale](../../Characters/Sythros-Vale.md) -- Gale-King
-**Base:** [Stormspire](../../Locations/Stormspire.md) -- Zephyr Heights
-**Allegiance:** [Thal'jin](../../Characters/Thaljin.md) (Air element)
+**Leader:** [Sythros Vale](Sythros-Vale.md) -- Gale-King
+**Base:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Zephyr Heights
+**Allegiance:** [Thal'jin](Thaljin.md) (Air element)
 
 ---
 
@@ -30,14 +30,14 @@ Opportunistic, fast-moving, and fiercely independent.
 
 | Name | Role | File |
 |------|------|------|
-| Sythros Vale | Gale-King | [File](../../Characters/Sythros-Vale.md) |
+| Sythros Vale | Gale-King | [File](Sythros-Vale.md) |
 
 ## Relationships
 
 | Faction | Stance | Notes |
 |---------|--------|-------|
 | Stormcrown Empire | Semi-aligned | Frequently accused of sheltering rebels |
-| [Thal'jin](../../Characters/Thaljin.md) | Patron | Direct elemental oversight |
+| [Thal'jin](Thaljin.md) | Patron | Direct elemental oversight |
 
 ## Session Appearances
 

@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.672-08:00","modified":"2026-02-24T19:45:11.609-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.672-08:00","modified":"2026-02-24T22:08:10.009-08:00","cssclasses":""}
 ---
 
 # Emberforge Consortium
 
 **Type:** Guild (Military-Industrial)
-**Leader:** [Zarnak Ironflame](../../Characters/Zarnak-Ironflame.md) -- Forge-Master
-**Base:** [Stormspire](../../Locations/Stormspire.md) -- Crucible District
-**Allegiance:** [Khazir](../../Characters/Khazir.md) (Fire element)
+**Leader:** [Zarnak Ironflame](Zarnak-Ironflame.md) -- Forge-Master
+**Base:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Crucible District
+**Allegiance:** [Khazir](Session%20Notes/session%201/Vaeloris/Characters/Khazir.md) (Fire element)
 
 ---
 
@@ -30,14 +30,14 @@ Pragmatic, martial, and hierarchical.
 
 | Name | Role | File |
 |------|------|------|
-| Zarnak Ironflame | Forge-Master | [File](../../Characters/Zarnak-Ironflame.md) |
+| Zarnak Ironflame | Forge-Master | [File](Zarnak-Ironflame.md) |
 
 ## Relationships
 
 | Faction | Stance | Notes |
 |---------|--------|-------|
 | Stormcrown Empire | Aligned | Primary weapons supplier |
-| [Khazir](../../Characters/Khazir.md) | Patron | Direct elemental oversight |
+| [Khazir](Session%20Notes/session%201/Vaeloris/Characters/Khazir.md) | Patron | Direct elemental oversight |
 
 ## Session Appearances
 

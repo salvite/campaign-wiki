@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.665-08:00","modified":"2026-02-24T20:08:56.856-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.665-08:00","modified":"2026-02-24T22:08:03.530-08:00","cssclasses":""}
 ---
 
 # Octavia
 
 **Race/Type:** Octopus-human hybrid
 **Role:** PC -- Druid
-**Affiliation:** [Argent Wardens](../Factions/Guilds/Argent-Wardens.md) (new recruit)
+**Affiliation:** [Argent Wardens](Argent-Wardens.md) (new recruit)
 **Location:** Originally from Bikini Bottom
 **Status:** Active
 

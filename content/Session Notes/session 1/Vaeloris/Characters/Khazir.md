@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.664-08:00","modified":"2026-02-24T19:45:01.788-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.664-08:00","modified":"2026-02-24T22:08:09.974-08:00","cssclasses":""}
 ---
 
 # Khazir
 
 **Race/Type:** Efreeti (Fire Genie)
 **Role:** Bound Court member -- Lord of Flame
-**Affiliation:** [Bound Court](../Factions/Bound-Court.md), [Emberforge Consortium](../Factions/Guilds/Emberforge-Consortium.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Crucible District (Forge Quarter)
+**Affiliation:** [Bound Court](Bound-Court.md), [Emberforge Consortium](Emberforge-Consortium.md)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Crucible District (Forge Quarter)
 **Status:** Active
 
 ---
@@ -44,8 +44,8 @@ Once ruler of his own realm before being bound to serve the Stormcrown. Built th
 |-----------|-------------|-------|
 | [Veylorn Stormcrown](Veylorn-Stormcrown.md) | Master (resented) | Harbors desire for independence |
 | [Zarnak Ironflame](Zarnak-Ironflame.md) | Subordinate guild leader | Forge-Master of the Emberforge Consortium |
-| [Vorak](Vorak.md) | Rival/peer | Fellow Bound Court member |
-| [Nerasa](Nerasa.md) | Rival/peer | Fellow Bound Court member |
+| [Vorak](Session%20Notes/session%201/Vaeloris/Characters/Vorak.md) | Rival/peer | Fellow Bound Court member |
+| [Nerasa](Session%20Notes/session%201/Vaeloris/Characters/Nerasa.md) | Rival/peer | Fellow Bound Court member |
 | [Thaljin](Thaljin.md) | Rival/peer | Fellow Bound Court member |
 
 ## Session Appearances

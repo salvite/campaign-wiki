@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.667-08:00","modified":"2026-02-24T19:45:06.766-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.667-08:00","modified":"2026-02-24T22:08:10.020-08:00","cssclasses":""}
 ---
 
 # Veil Corryn
 
 **Race/Type:** Unknown
 **Role:** Second-in-command of the Argent Wardens
-**Affiliation:** [Argent Wardens](../Factions/Guilds/Argent-Wardens.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Common Ring
+**Affiliation:** [Argent Wardens](Argent-Wardens.md)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Common Ring
 **Status:** Active
 
 ---

@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.667-08:00","modified":"2026-02-24T19:45:07.814-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.667-08:00","modified":"2026-02-24T22:08:09.992-08:00","cssclasses":""}
 ---
 
 # Vorak
 
 **Race/Type:** Dao (Earth Genie)
 **Role:** Bound Court member -- Lord of Stone
-**Affiliation:** [Bound Court](../Factions/Bound-Court.md), [Stonewright League](../Factions/Guilds/Stonewright-League.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward (Earth Quarter)
+**Affiliation:** [Bound Court](Bound-Court.md), [Stonewright League](Stonewright-League.md)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Stoneward (Earth Quarter)
 **Status:** Active
 
 ---
@@ -44,8 +44,8 @@ Once ruler of his own earth realm before being bound to serve the Stormcrown. Bu
 |-----------|-------------|-------|
 | [Veylorn Stormcrown](Veylorn-Stormcrown.md) | Master (resented) | Resents the emperor receiving glory for his labor |
 | [Thaldrum Stonehand](Thaldrum-Stonehand.md) | Subordinate guild leader | Leader of the Stonewright League |
-| [Khazir](Khazir.md) | Rival/peer | Fellow Bound Court member |
-| [Nerasa](Nerasa.md) | Rival/peer | Fellow Bound Court member |
+| [Khazir](Session%20Notes/session%201/Vaeloris/Characters/Khazir.md) | Rival/peer | Fellow Bound Court member |
+| [Nerasa](Session%20Notes/session%201/Vaeloris/Characters/Nerasa.md) | Rival/peer | Fellow Bound Court member |
 | [Thaljin](Thaljin.md) | Rival/peer | Fellow Bound Court member |
 
 ## Session Appearances

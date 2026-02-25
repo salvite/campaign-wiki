@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.670-08:00","modified":"2026-02-24T19:45:26.611-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.670-08:00","modified":"2026-02-24T22:08:10.003-08:00","cssclasses":""}
 ---
 
 # Vaeloris
 
 **Type:** Continent
 **Region:** -
-**Controlled by:** Various (dominated by the [Stormcrown Empire](../Factions/Stormcrown-Empire.md))
+**Controlled by:** Various (dominated by the [Stormcrown Empire](Stormcrown-Empire.md))
 **Population:** Unknown
 
 ---
@@ -19,7 +19,7 @@ A vast continent shaped by ancient wars between dragons, genies, and mortal empi
 
 | Region | Direction | File |
 |--------|-----------|------|
-| Stormcrown Empire (Central) | Central | [Stormspire](Stormspire.md) / [Empire](../Factions/Stormcrown-Empire.md) |
+| Stormcrown Empire (Central) | Central | [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) / [Empire](Stormcrown-Empire.md) |
 | Frostward Peaks | North | [Frostward-Peaks](Frostward-Peaks.md) |
 | Verdant Wilds | East | [Verdant-Wilds](Verdant-Wilds.md) |
 | Sapphire Coast | West | [Sapphire-Coast](Sapphire-Coast.md) |

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.665-08:00","modified":"2026-02-24T19:45:02.949-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.665-08:00","modified":"2026-02-24T22:08:09.975-08:00","cssclasses":""}
 ---
 
 # Ms. Thornbloom
@@ -7,7 +7,7 @@
 **Race/Type:** Unknown
 **Role:** Orphanage headmistress
 **Affiliation:** None established
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward (the Hollow Hearth orphanage)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Stoneward (the Hollow Hearth orphanage)
 **Status:** Active
 
 ---

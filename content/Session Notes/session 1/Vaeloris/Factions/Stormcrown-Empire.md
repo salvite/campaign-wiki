@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.668-08:00","modified":"2026-02-24T19:45:15.317-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.668-08:00","modified":"2026-02-24T22:08:09.997-08:00","cssclasses":""}
 ---
 
 # Stormcrown Empire
 
 **Type:** Nation
-**Leader:** [Veylorn Stormcrown](../Characters/Veylorn-Stormcrown.md)
-**Base:** [Stormspire](../Locations/Stormspire.md)
+**Leader:** [Veylorn Stormcrown](Veylorn-Stormcrown.md)
+**Base:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md)
 **Allegiance:** Self-governing imperial power
 
 ---
@@ -46,11 +46,11 @@ Three pillars of control:
 
 | Name | Role | File |
 |------|------|------|
-| Veylorn Stormcrown | Emperor | [File](../Characters/Veylorn-Stormcrown.md) |
-| Khazir | Bound Court (Fire) | [File](../Characters/Khazir.md) |
-| Nerasa | Bound Court (Water) | [File](../Characters/Nerasa.md) |
-| Thal'jin | Bound Court (Air) | [File](../Characters/Thaljin.md) |
-| Vorak | Bound Court (Earth) | [File](../Characters/Vorak.md) |
+| Veylorn Stormcrown | Emperor | [File](Veylorn-Stormcrown.md) |
+| Khazir | Bound Court (Fire) | [File](Session%20Notes/session%201/Vaeloris/Characters/Khazir.md) |
+| Nerasa | Bound Court (Water) | [File](Session%20Notes/session%201/Vaeloris/Characters/Nerasa.md) |
+| Thal'jin | Bound Court (Air) | [File](Thaljin.md) |
+| Vorak | Bound Court (Earth) | [File](Session%20Notes/session%201/Vaeloris/Characters/Vorak.md) |
 
 ## Relationships
 

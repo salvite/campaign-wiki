@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.672-08:00","modified":"2026-02-24T20:08:56.864-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.672-08:00","modified":"2026-02-24T22:08:10.008-08:00","cssclasses":""}
 ---
 
 # Argent Wardens
 
 **Type:** Guild (Adventuring / Military)
-**Leader:** [Varaen Thorne](../../Characters/Varaen-Thorne.md) -- Guildmaster
-**Base:** [Stormspire](../../Locations/Stormspire.md) -- Common Ring
+**Leader:** [Varaen Thorne](Varaen-Thorne.md) -- Guildmaster
+**Base:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Common Ring
 **Allegiance:** Ostensibly independent; rumored imperial ties
 
 ---
@@ -30,7 +30,7 @@ Discipline, honor, and strength. Entry requires passing rigorous trials to ensur
 
 | Name | Role | File |
 |------|------|------|
-| Varaen Thorne | Guildmaster | [File](../../Characters/Varaen-Thorne.md) |
+| Varaen Thorne | Guildmaster | [File](Varaen-Thorne.md) |
 | Veil Corryn | Second-in-command | [File](Veil-Corryn.md) |
 
 ## Relationships

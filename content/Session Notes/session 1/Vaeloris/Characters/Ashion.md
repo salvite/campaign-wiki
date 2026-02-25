@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.663-08:00","modified":"2026-02-24T19:44:55.802-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.663-08:00","modified":"2026-02-24T22:08:10.019-08:00","cssclasses":""}
 ---
 
 # Ashion
@@ -7,7 +7,7 @@
 **Race/Type:** Tiefling (child)
 **Role:** Orphan at the Hollow Hearth; recruited as lookout by James
 **Affiliation:** Hollow Hearth orphanage
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward (Hollow Hearth orphanage)
+**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Stoneward (Hollow Hearth orphanage)
 **Status:** Active
 
 ---
