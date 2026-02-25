@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.662-08:00","modified":"2026-02-24T19:45:35.678-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.662-08:00","modified":"2026-02-24T20:08:56.853-08:00","cssclasses":""}
 ---
 
 # Vaeloris Campaign Notes
@@ -38,11 +38,11 @@
 | Ilyra Moondrift | Matron, Azure Concord | Active | [Characters/Ilyra-Moondrift.md](Characters/Ilyra-Moondrift.md) |
 | Zarnak Ironflame | Forge-Master, Emberforge Consortium | Active | [Characters/Zarnak-Ironflame.md](Characters/Zarnak-Ironflame.md) |
 | Thaldrum Stonehand | Leader, Stonewright League | Active | [Characters/Thaldrum-Stonehand.md](Characters/Thaldrum-Stonehand.md) |
-| Veil Corryn | Second-in-command, Argent Wardens | Active | [Characters/Veil-Corryn.md](Characters/Veil-Corryn.md) |
+| Veil Corryn | Second-in-command, Argent Wardens | Active | [Characters/Veil-Corryn.md](Veil-Corryn.md) |
 | Ms. Thornbloom | Orphanage headmistress | Active | [Characters/Ms-Thornbloom.md](Characters/Ms-Thornbloom.md) |
 | Alira | Missing child (magical promise) | Missing | [Characters/Alira.md](Characters/Alira.md) |
 | Keff | Halfling orphan, potential witness | Active | [Characters/Keff.md](Characters/Keff.md) |
-| Ashion | Tiefling orphan, lookout for the party | Active | [Characters/Ashion.md](Characters/Ashion.md) |
+| Ashion | Tiefling orphan, lookout for the party | Active | [Characters/Ashion.md](Ashion.md) |
 | "The Whisper Man" | Black feather cloak, takes children, floats | Unknown | - |
 
 > New character? Copy [Characters/_template.md](Characters/_template.md)

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.672-08:00","modified":"2026-02-24T19:45:10.681-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.672-08:00","modified":"2026-02-24T20:08:56.864-08:00","cssclasses":""}
 ---
 
 # Argent Wardens
@@ -31,7 +31,7 @@ Discipline, honor, and strength. Entry requires passing rigorous trials to ensur
 | Name | Role | File |
 |------|------|------|
 | Varaen Thorne | Guildmaster | [File](../../Characters/Varaen-Thorne.md) |
-| Veil Corryn | Second-in-command | [File](../../Characters/Veil-Corryn.md) |
+| Veil Corryn | Second-in-command | [File](Veil-Corryn.md) |
 
 ## Relationships
 
