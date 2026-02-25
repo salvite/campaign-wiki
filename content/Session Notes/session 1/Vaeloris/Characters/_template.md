@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-24T19:27:39.103-08:00","modified":"2026-02-24T19:28:30.064-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.668-08:00","modified":"2026-02-24T19:44:24.992-08:00","cssclasses":""}
 ---
 
 # [Character Name]
