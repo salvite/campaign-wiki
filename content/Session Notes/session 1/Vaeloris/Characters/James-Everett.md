@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.664-08:00","modified":"2026-02-24T22:35:19.634-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.664-08:00","modified":"2026-02-24T22:43:47.656-08:00","cssclasses":""}
 ---
 
 # Lord James Everett
@@ -9,7 +9,7 @@
 **Race/Type:** Human
 **Role:** PC -- Baron of Shortbrook
 **Affiliation:** House Everett
-**Location:** [Shortbrook Estate](Shortbrook-Estate.md) (origin)
+**Location:** [Shortbrook Estate](../Locations/Shortbrook-Estate.md) (origin)
 **Status:** Active
 
 ---
@@ -51,7 +51,7 @@ James resolved to take up the family tradition of adventure, and perhaps build t
 
 ## Equipment / Resources
 
-- **[The Tome](The-Tome.md):** A sentient leather-bound book recovered from the ancestral barrow. Can consume beings and inscribe knowledge onto its pages. Its full nature and capabilities are unknown.
+- **[The Tome](../Lore/The-Tome.md):** A sentient leather-bound book recovered from the ancestral barrow. Can consume beings and inscribe knowledge onto its pages. Its full nature and capabilities are unknown.
 - **Indigo:** A breathtaking mare the color of midnight bruised with starlight, said to hail from the Elemental Plane of Air. Swift, sure-footed, and uncannily quiet -- seems to listen to a man's thoughts before he speaks them. His father's final gift and perhaps the last thing of value on the estate besides the land itself.
 - **Whip:** His trusty weapon of choice. Used it to snatch the Tome from the pedestal at a critical moment.
 - **Universal Solvent:** Carried a vial (used on the barrow keystone; likely spent).

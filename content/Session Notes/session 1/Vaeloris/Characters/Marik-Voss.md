@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.664-08:00","modified":"2026-02-24T22:14:35.108-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.664-08:00","modified":"2026-02-24T22:43:47.714-08:00","cssclasses":""}
 ---
 
 # Marik Voss
 
 **Race/Type:** Unknown (likely human)
 **Role:** Leader of the Iron Hand
-**Affiliation:** [Iron Hand](Iron-Hand.md)
-**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Common Ring
+**Affiliation:** [Iron Hand](../Factions/Guilds/Iron-Hand.md)
+**Location:** [Stormspire](../Locations/Stormspire.md) -- Common Ring
 **Status:** Active
 
 ---

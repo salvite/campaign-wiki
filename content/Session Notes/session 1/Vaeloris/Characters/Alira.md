@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.662-08:00","modified":"2026-02-24T22:14:35.075-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.662-08:00","modified":"2026-02-24T22:43:47.648-08:00","cssclasses":""}
 ---
 
 # Alira
 
 **Race/Type:** Unknown (child)
 **Role:** Missing child with magical promise
-**Affiliation:** Ms. Thornbloom's orphanage; noted by [Argent Wardens](Argent-Wardens.md)
-**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Stoneward (last seen at the Hollow Hearth orphanage)
+**Affiliation:** Ms. Thornbloom's orphanage; noted by [Argent Wardens](../Factions/Guilds/Argent-Wardens.md)
+**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward (last seen at the Hollow Hearth orphanage)
 **Status:** Missing
 
 ---

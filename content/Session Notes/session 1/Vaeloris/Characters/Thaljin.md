@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.666-08:00","modified":"2026-02-24T22:14:35.117-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.666-08:00","modified":"2026-02-24T22:43:47.725-08:00","cssclasses":""}
 ---
 
 # Thal'jin
 
 **Race/Type:** Djinni (Air Genie)
 **Role:** Bound Court member -- Prince of the Skies
-**Affiliation:** [Bound Court](Bound-Court.md), [Zephyr Syndicate](Zephyr-Syndicate.md)
-**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Zephyr Heights (Air Quarter)
+**Affiliation:** [Bound Court](../Factions/Bound-Court.md), [Zephyr Syndicate](../Factions/Guilds/Zephyr-Syndicate.md)
+**Location:** [Stormspire](../Locations/Stormspire.md) -- Zephyr Heights (Air Quarter)
 **Status:** Active
 
 ---
@@ -44,9 +44,9 @@ Once ruled his own air realm before being bound to serve the Stormcrown. Built t
 |-----------|-------------|-------|
 | [Veylorn Stormcrown](Veylorn-Stormcrown.md) | Master (resented) | Questions orders, resents confinement |
 | [Sythros Vale](Sythros-Vale.md) | Subordinate guild leader | Gale-King of the Zephyr Syndicate |
-| [Khazir](Session%20Notes/session%201/Vaeloris/Characters/Khazir.md) | Rival/peer | Fellow Bound Court member |
-| [Nerasa](Session%20Notes/session%201/Vaeloris/Characters/Nerasa.md) | Rival/peer | Fellow Bound Court member |
-| [Vorak](Session%20Notes/session%201/Vaeloris/Characters/Vorak.md) | Rival/peer | Fellow Bound Court member |
+| [Khazir](Khazir.md) | Rival/peer | Fellow Bound Court member |
+| [Nerasa](Nerasa.md) | Rival/peer | Fellow Bound Court member |
+| [Vorak](Vorak.md) | Rival/peer | Fellow Bound Court member |
 
 ## Session Appearances
 

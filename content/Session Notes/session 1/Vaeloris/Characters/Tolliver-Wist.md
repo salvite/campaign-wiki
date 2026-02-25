@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.666-08:00","modified":"2026-02-24T22:35:29.781-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.666-08:00","modified":"2026-02-24T22:43:47.725-08:00","cssclasses":""}
 ---
 
 # Tolliver Wist
 
 **Race/Type:** Halfling
 **Role:** PC
-**Affiliation:** [Argent Wardens](Argent-Wardens.md) (new recruit)
-**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md)
+**Affiliation:** [Argent Wardens](../Factions/Guilds/Argent-Wardens.md) (new recruit)
+**Location:** [Stormspire](../Locations/Stormspire.md)
 **Status:** Active
 
 ---

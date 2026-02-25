@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-24T22:20:32.031-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-24T22:44:35.262-08:00","cssclasses":""}
 ---
 
 Stormspire rises from a vast plateau, surrounded by steep cliffs and storm-wracked skies. It is a **marvel of elemental engineering**, blending polished marble streets, sky-piercing towers, and canals of flowing water. At its center, the **[[Stormspire Citadel]]**, seat of the [[Tempest Crown]], looms like a dagger pointing at the heavens.

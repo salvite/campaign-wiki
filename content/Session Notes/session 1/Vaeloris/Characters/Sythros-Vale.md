@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.665-08:00","modified":"2026-02-24T22:14:35.116-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.665-08:00","modified":"2026-02-24T22:43:47.723-08:00","cssclasses":""}
 ---
 
 # Sythros Vale
 
 **Race/Type:** Air Genasi
 **Role:** Gale-King of the Zephyr Syndicate
-**Affiliation:** [Zephyr Syndicate](Zephyr-Syndicate.md), tied to [Thal'jin](Thaljin.md)
-**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Zephyr Heights
+**Affiliation:** [Zephyr Syndicate](../Factions/Guilds/Zephyr-Syndicate.md), tied to [Thal'jin](Thaljin.md)
+**Location:** [Stormspire](../Locations/Stormspire.md) -- Zephyr Heights
 **Status:** Active
 
 ---

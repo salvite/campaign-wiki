@@ -1,12 +1,12 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.673-08:00","modified":"2026-02-24T22:14:35.153-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.673-08:00","modified":"2026-02-24T22:43:47.756-08:00","cssclasses":""}
 ---
 
 # Iron Hand
 
 **Type:** Guild (Labor Union)
-**Leader:** [Marik Voss](Marik-Voss.md)
-**Base:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Common Ring
+**Leader:** [Marik Voss](../../Characters/Marik-Voss.md)
+**Base:** [Stormspire](../../Locations/Stormspire.md) -- Common Ring
 **Allegiance:** The working class; potentially revolutionary
 
 ---
@@ -35,7 +35,7 @@ Tough and fiercely independent. Emblem: a clenched iron fist.
 
 | Name | Role | File |
 |------|------|------|
-| Marik Voss | Leader | [File](Marik-Voss.md) |
+| Marik Voss | Leader | [File](../../Characters/Marik-Voss.md) |
 
 ## Relationships
 

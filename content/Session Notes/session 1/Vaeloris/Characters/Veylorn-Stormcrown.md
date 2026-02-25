@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.667-08:00","modified":"2026-02-24T22:14:35.131-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.667-08:00","modified":"2026-02-24T22:43:47.731-08:00","cssclasses":""}
 ---
 
 # Veylorn Stormcrown
 
 **Race/Type:** Unknown (possibly divine or elemental origin)
 **Role:** Emperor of the Stormcrown Empire
-**Affiliation:** [Stormcrown Empire](Stormcrown-Empire.md), [Bound Court](Bound-Court.md)
-**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Tempest Crown district
+**Affiliation:** [Stormcrown Empire](../Factions/Stormcrown-Empire.md), [Bound Court](../Factions/Bound-Court.md)
+**Location:** [Stormspire](../Locations/Stormspire.md) -- Tempest Crown district
 **Status:** Active
 
 ---
@@ -60,10 +60,10 @@ Some temples pray to Veylorn as a semi-divine protector. Annual festivals includ
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Khazir](Session%20Notes/session%201/Vaeloris/Characters/Khazir.md) | Bound servant (Fire) | Controls forges and military industry |
-| [Nerasa](Session%20Notes/session%201/Vaeloris/Characters/Nerasa.md) | Bound servant (Water) | Controls commerce and navy |
+| [Khazir](Khazir.md) | Bound servant (Fire) | Controls forges and military industry |
+| [Nerasa](Nerasa.md) | Bound servant (Water) | Controls commerce and navy |
 | [Thaljin](Thaljin.md) | Bound servant (Air) | Controls espionage and airships |
-| [Vorak](Session%20Notes/session%201/Vaeloris/Characters/Vorak.md) | Bound servant (Earth) | Controls construction and mining |
+| [Vorak](Vorak.md) | Bound servant (Earth) | Controls construction and mining |
 
 ## Session Appearances
 

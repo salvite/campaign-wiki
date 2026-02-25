@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.673-08:00","modified":"2026-02-24T22:14:35.158-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.673-08:00","modified":"2026-02-24T22:43:47.757-08:00","cssclasses":""}
 ---
 
 # Stonewright League
 
 **Type:** Guild (Construction / Mining)
-**Leader:** [Thaldrum Stonehand](Thaldrum-Stonehand.md)
-**Base:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Stoneward
-**Allegiance:** [Vorak](Session%20Notes/session%201/Vaeloris/Characters/Vorak.md) (Earth element)
+**Leader:** [Thaldrum Stonehand](../../Characters/Thaldrum-Stonehand.md)
+**Base:** [Stormspire](../../Locations/Stormspire.md) -- Stoneward
+**Allegiance:** [Vorak](../../Characters/Vorak.md) (Earth element)
 
 ---
 
@@ -30,14 +30,14 @@ Tradition-bound and meticulous.
 
 | Name | Role | File |
 |------|------|------|
-| Thaldrum Stonehand | Leader | [File](Thaldrum-Stonehand.md) |
+| Thaldrum Stonehand | Leader | [File](../../Characters/Thaldrum-Stonehand.md) |
 
 ## Relationships
 
 | Faction | Stance | Notes |
 |---------|--------|-------|
 | Stormcrown Empire | Aligned | Builds all imperial infrastructure |
-| [Vorak](Session%20Notes/session%201/Vaeloris/Characters/Vorak.md) | Patron | Direct elemental oversight |
+| [Vorak](../../Characters/Vorak.md) | Patron | Direct elemental oversight |
 
 ## Session Appearances
 

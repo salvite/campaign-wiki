@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.665-08:00","modified":"2026-02-24T22:14:35.115-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.665-08:00","modified":"2026-02-24T22:43:47.715-08:00","cssclasses":""}
 ---
 
 # Nerasa
 
 **Race/Type:** Marid (Water Genie)
 **Role:** Bound Court member -- Lady of the Deep Mirror
-**Affiliation:** [Bound Court](Bound-Court.md), [Azure Concord](Azure-Concord.md)
-**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Sapphire Docks (Water Quarter)
+**Affiliation:** [Bound Court](../Factions/Bound-Court.md), [Azure Concord](../Factions/Guilds/Azure-Concord.md)
+**Location:** [Stormspire](../Locations/Stormspire.md) -- Sapphire Docks (Water Quarter)
 **Status:** Active
 
 ---
@@ -49,8 +49,8 @@ Once ruled her own water realm before being bound to serve the Stormcrown. Built
 |-----------|-------------|-------|
 | [Veylorn Stormcrown](Veylorn-Stormcrown.md) | Master (resented) | Serves under the emperor |
 | [Ilyra Moondrift](Ilyra-Moondrift.md) | Subordinate guild leader | Matron of the Azure Concord |
-| [Khazir](Session%20Notes/session%201/Vaeloris/Characters/Khazir.md) | Rival/peer | Fellow Bound Court member |
-| [Vorak](Session%20Notes/session%201/Vaeloris/Characters/Vorak.md) | Rival/peer | Fellow Bound Court member |
+| [Khazir](Khazir.md) | Rival/peer | Fellow Bound Court member |
+| [Vorak](Vorak.md) | Rival/peer | Fellow Bound Court member |
 | [Thaljin](Thaljin.md) | Rival/peer | Fellow Bound Court member |
 
 ## Session Appearances

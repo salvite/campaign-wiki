@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-02-24T19:36:44.664-08:00","modified":"2026-02-24T22:18:40.973-08:00","cssclasses":""}
+{"publish":true,"created":"2026-02-24T19:36:44.664-08:00","modified":"2026-02-24T22:43:47.710-08:00","cssclasses":""}
 ---
 
 # Keff
@@ -7,7 +7,7 @@
 **Race/Type:** Halfling (child)
 **Role:** Orphan at the Hollow Hearth; potential witness
 **Affiliation:** Hollow Hearth orphanage
-**Location:** [Stormspire](Session%20Notes/session%201/Vaeloris/Locations/Stormspire.md) -- Stoneward (Hollow Hearth orphanage)
+**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward (Hollow Hearth orphanage)
 **Status:** Active
 
 ---
