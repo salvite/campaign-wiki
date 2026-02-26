@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T01:12:23.418-07:00","modified":"2026-02-26T13:30:08.809-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T01:12:23.418-07:00","modified":"2026-02-26T13:38:26.777-08:00","cssclasses":""}
 ---
 
 **Domain:** Monster hunting, exploration, bodyguard contracts, and frontier defense.  
@@ -17,7 +17,7 @@
 - Gives orphans a basic education in reading, writing, and mathematics. Those that show promise are trained further.
 
 **Known Members**
-- [[Vaeloris/Stormspire/Guilds/Argent Wardens/Veal Corrin]]
+- [Vael Corrin](Vaeloris/Stormspire/Guilds/Argent%20Wardens/Vael%20Corrin.md)
 
 
 
