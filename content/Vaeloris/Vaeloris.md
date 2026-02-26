@@ -1,10 +1,10 @@
 ---
-{"publish":true,"created":"2025-07-06T00:44:13.935-07:00","modified":"2026-02-24T23:05:44.225-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:44:13.935-07:00","modified":"2026-02-26T13:26:57.988-08:00","cssclasses":""}
 ---
 
 ## 🌩️ Overview
 - A vast land shaped by ancient wars between dragons, genies, and mortal empires.
-- Dominated today by **The [[Vaeloris/Stormcrown Empire]]**, which rules much of the central plains and coasts.
+- Dominated today by **The [Stormcrown Empire](Vaeloris/Stormcrown%20Empire)**, which rules much of the central plains and coasts.
 - The outer realms—fractured kingdoms, wild frontiers, and ancient ruins—cling to independence, resisting imperial dominance.
 - Elemental forces still stir beneath mountains, seas, and skies, remnants of the continent’s mythic past.
 

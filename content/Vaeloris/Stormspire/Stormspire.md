@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-24T23:11:18.379-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-26T13:29:24.984-08:00","cssclasses":""}
 ---
 
 Stormspire rises from a vast plateau, surrounded by steep cliffs and storm-wracked skies. It is a **marvel of elemental engineering**, blending polished marble streets, sky-piercing towers, and canals of flowing water. At its center, the **[[Stormspire Citadel]]**, seat of the [[Tempest Crown]], looms like a dagger pointing at the heavens.
@@ -75,7 +75,7 @@ The outer districts where merchants, farmers, travelers, and common folk live an
 
 
 # ⚒️ Guilds
-- [Argent Wardens](Vaeloris/Stormspire/Guilds/Argent%20Wardens.md) - Adventurer's guild
+- [Argent Wardens](Vaeloris/Stormspire/Guilds/Argent%20Wardens/Argent%20Wardens.md) - Adventurer's guild
 - [Azure Concord](Vaeloris/Stormspire/Guilds/Azure%20Concord.md) - Maritime Trade
 - [Emberforge Consortium](Vaeloris/Stormspire/Guilds/Emberforge%20Consortium.md) - Smithing armor and weapons
 - [Iron Hand](Vaeloris/Stormspire/Guilds/Iron%20Hand.md) - Craftsman and laborers of all kinds
