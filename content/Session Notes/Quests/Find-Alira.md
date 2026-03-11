@@ -1,26 +1,26 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.521-07:00","modified":"2026-03-08T22:50:18.000-07:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.521-07:00","modified":"2026-03-10T21:18:39.912-07:00","cssclasses":""}
 ---
 
 
 # Find Alira
 
 **Status:** Active
-**Given by:** [Veil Corryn](../Characters/Veil-Corryn.md) (Argent Wardens)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward, the Hollow Hearth orphanage
+**Given by:** [Veil Corryn](Session%20Notes/Characters/Veil-Corryn.md) (Argent Wardens)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Stoneward, the Hollow Hearth orphanage
 **Session started:** Session 1 (presumed)
 
 ---
 
 ## Objective
 
-Find the missing child [Alira](../Characters/Alira.md) and investigate the disappearance of six magically talented children from the Hollow Hearth orphanage in Stormspire.
+Find the missing child [Alira](Session%20Notes/Characters/Alira.md) and investigate the disappearance of six magically talented children from the Hollow Hearth orphanage in Stormspire.
 
 ## Background
 
-The Argent Wardens identified Alira as a child with magical promise valuable to the guild. She has gone missing from the orphanage. [Veil Corryn](../Characters/Veil-Corryn.md), second-in-command of the Wardens, assigned this as the introductory mission for the party ([James Everett](../Characters/James-Everett.md), [Tolliver Wist](../Characters/Tolliver-Wist.md), [Sue Nommy](../Characters/Sue-Nommy.md)).
+The Argent Wardens identified Alira as a child with magical promise valuable to the guild. She has gone missing from the orphanage. [Veil Corryn](Session%20Notes/Characters/Veil-Corryn.md), second-in-command of the Wardens, assigned this as the introductory mission for the party ([James Everett](Session%20Notes/Characters/James-Everett.md), [Tolliver Wist](Session%20Notes/Characters/Tolliver-Wist.md), [Sue Nommy](Session%20Notes/Characters/Sue-Nommy.md)).
 
-Upon investigating, [Ms. Thornbloom](../Characters/Ms-Thornbloom.md) revealed the situation is worse than expected: six magically talented children have been taken in total. Men claiming to be members of various guilds visit the orphanage, interview children, and then those children vanish from the orphanage in the night without explanation.
+Upon investigating, [Ms. Thornbloom](Session%20Notes/Characters/Ms-Thornbloom.md) revealed the situation is worse than expected: six magically talented children have been taken in total. Men claiming to be members of various guilds visit the orphanage, interview children, and then those children vanish from the orphanage in the night without explanation.
 
 ## Progress
 

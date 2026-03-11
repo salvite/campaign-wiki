@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.517-07:00","modified":"2026-03-08T22:50:16.000-07:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.517-07:00","modified":"2026-03-10T21:18:39.906-07:00","cssclasses":""}
 ---
 
 
@@ -7,8 +7,8 @@
 
 **Race/Type:** Unknown
 **Role:** Second-in-command of the Argent Wardens
-**Affiliation:** [Argent Wardens](../Factions/Guilds/Argent-Wardens.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Common Ring
+**Affiliation:** [Argent Wardens](Session%20Notes/Factions/Guilds/Argent-Wardens.md)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Common Ring
 **Status:** Active
 
 ---
@@ -23,7 +23,7 @@
 
 ## Background
 
-Second-in-command of the Argent Wardens, serving under Guildmaster [Varaen Thorne](Varaen-Thorne.md). Responsible for assigning missions to guild members and recruits.
+Second-in-command of the Argent Wardens, serving under Guildmaster [Varaen Thorne](Session%20Notes/Characters/Varaen-Thorne.md). Responsible for assigning missions to guild members and recruits.
 
 ## Abilities / Resources
 
@@ -34,10 +34,10 @@ Second-in-command of the Argent Wardens, serving under Guildmaster [Varaen Thorn
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Varaen Thorne](Varaen-Thorne.md) | Superior | Guildmaster of the Argent Wardens |
-| [James Everett](James-Everett.md) | Quest giver | Assigned introductory mission |
-| [Tolliver Wist](Tolliver-Wist.md) | Quest giver | Assigned introductory mission |
-| [Sue Nommy](Sue-Nommy.md) | Quest giver | Assigned introductory mission |
+| [Varaen Thorne](Session%20Notes/Characters/Varaen-Thorne.md) | Superior | Guildmaster of the Argent Wardens |
+| [James Everett](Session%20Notes/Characters/James-Everett.md) | Quest giver | Assigned introductory mission |
+| [Tolliver Wist](Session%20Notes/Characters/Tolliver-Wist.md) | Quest giver | Assigned introductory mission |
+| [Sue Nommy](Session%20Notes/Characters/Sue-Nommy.md) | Quest giver | Assigned introductory mission |
 
 ## Session Appearances
 

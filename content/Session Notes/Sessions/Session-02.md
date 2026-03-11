@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.498-07:00","modified":"2026-03-09T00:23:42.000-07:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.498-07:00","modified":"2026-03-10T21:18:39.870-07:00","cssclasses":""}
 ---
 
 
@@ -7,8 +7,8 @@
 
 **Date:** 2026-03-08
 **In-game date:** [If tracked]
-**Location(s):** [Stormspire](../Locations/Stormspire.md)
-**NPCs encountered:** [Veil Corryn](../Characters/Veil-Corryn.md), [Goody Two Shoes](../Characters/Goody-Two-Shoes.md)
+**Location(s):** [Stormspire](Session%20Notes/Locations/Stormspire.md)
+**NPCs encountered:** [Veil Corryn](Session%20Notes/Characters/Veil-Corryn.md), [Goody Two Shoes](Session%20Notes/Characters/Goody-Two-Shoes.md)
 
 ---
 
@@ -24,19 +24,19 @@ After the ambush outside the Hollow Hearth, the party regroups at a tavern. Toll
 
 ### Report to Veil Corryn
 
-The party returns to [Veil Corryn](../Characters/Veil-Corryn.md) and presents the medallion taken from the ambushers. Corryn identifies the door-and-chains symbol as belonging to a **cult of the Silver Tyrant** -- the ancient enemy Emperor Veylorn defeated over 800 years ago to found the Stormcrown Empire.
+The party returns to [Veil Corryn](Session%20Notes/Characters/Veil-Corryn.md) and presents the medallion taken from the ambushers. Corryn identifies the door-and-chains symbol as belonging to a **cult of the Silver Tyrant** -- the ancient enemy Emperor Veylorn defeated over 800 years ago to found the Stormcrown Empire.
 
 ### Meeting Goody Two Shoes
 
-The party leaves the Argent Wardens and Tolliver takes them to meet [Goody Two Shoes](../Characters/Goody-Two-Shoes.md), an elderly dragonborn who serves as one of Tolliver's informants. Tolliver asks Goody about the medallion and the Silver Tyrant. Goody reveals that the cult searches for "children of power" to try to release their patron.
+The party leaves the Argent Wardens and Tolliver takes them to meet [Goody Two Shoes](Session%20Notes/Characters/Goody-Two-Shoes.md), an elderly dragonborn who serves as one of Tolliver's informants. Tolliver asks Goody about the medallion and the Silver Tyrant. Goody reveals that the cult searches for "children of power" to try to release their patron.
 
 ### The Argent Colleges
 
-The party travels to the Argent Colleges, a research institution owned by the [Argent Wardens](../Factions/Guilds/Argent-Wardens.md), to research the Silver Tyrant. They learn very little new -- the main takeaway is that the djinn bound to the city (the [Bound Court](../Factions/Bound-Court.md)) were originally used to fight against the Silver Tyrant before being bound to the Stormcrown.
+The party travels to the Argent Colleges, a research institution owned by the [Argent Wardens](Session%20Notes/Factions/Guilds/Argent-Wardens.md), to research the Silver Tyrant. They learn very little new -- the main takeaway is that the djinn bound to the city (the [Bound Court](Session%20Notes/Factions/Bound-Court.md)) were originally used to fight against the Silver Tyrant before being bound to the Stormcrown.
 
 ### Long Rest and the Anonymous Map
 
-The party takes a long rest. The following morning, Tolliver finds a map that was slipped under his door. The map indicates that the [cult of the Silver Tyrant](../Factions/Cult-of-the-Silver-Tyrant.md) is operating out of the Gloam -- an underground region beneath Stormspire that hosts the city's seedier elements. Likely sourced from Tolliver's informant network.
+The party takes a long rest. The following morning, Tolliver finds a map that was slipped under his door. The map indicates that the [cult of the Silver Tyrant](Session%20Notes/Factions/Cult-of-the-Silver-Tyrant.md) is operating out of the Gloam -- an underground region beneath Stormspire that hosts the city's seedier elements. Likely sourced from Tolliver's informant network.
 
 ### Into the Gloam
 

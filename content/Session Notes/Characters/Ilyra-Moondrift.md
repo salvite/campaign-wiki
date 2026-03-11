@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.508-07:00","modified":"2026-02-24T22:50:58.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.508-07:00","modified":"2026-03-10T21:18:39.894-07:00","cssclasses":""}
 ---
 
 
@@ -7,8 +7,8 @@
 
 **Race/Type:** Water Genasi
 **Role:** Matron of the Azure Concord
-**Affiliation:** [Azure Concord](../Factions/Guilds/Azure-Concord.md), tied to [Nerasa](Nerasa.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Sapphire Docks
+**Affiliation:** [Azure Concord](Session%20Notes/Factions/Guilds/Azure-Concord.md), tied to [Nerasa](Session%20Notes/Characters/Nerasa.md)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Sapphire Docks
 **Status:** Active
 
 ---
@@ -36,7 +36,7 @@ Influential water genasi who commands the empire's most powerful trade guild.
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Nerasa](Nerasa.md) | Superior / patron | Serves under Nerasa's oversight |
+| [Nerasa](Session%20Notes/Characters/Nerasa.md) | Superior / patron | Serves under Nerasa's oversight |
 
 ## Session Appearances
 

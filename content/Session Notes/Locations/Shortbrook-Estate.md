@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.502-07:00","modified":"2026-02-24T22:51:16.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.502-07:00","modified":"2026-03-10T21:18:39.871-07:00","cssclasses":""}
 ---
 
 
@@ -7,7 +7,7 @@
 
 **Type:** Noble Estate / Moorland
 **Region:** Unknown (James's homeland, outside Stormspire)
-**Controlled by:** [Lord James Everett](../Characters/James-Everett.md), Baron of Shortbrook
+**Controlled by:** [Lord James Everett](Session%20Notes/Characters/James-Everett.md), Baron of Shortbrook
 **Population:** Effectively 1 (James alone, plus Indigo)
 
 ---
@@ -30,7 +30,7 @@ The largest barrow on the estate. Originally the final resting place of Lord Jam
 
 - A **stone bowl on a pedestal** at the entrance to an inner chamber -- accepts blood to unlock the door
 - A **runed stone door** with blood-wards keyed to Everett lineage -- fresh construction (maybe a decade old) over far older stonework
-- A **hidden rectangular chamber** beyond the door, lit by dim magical lanterns, containing a pedestal with [the Tome](../Lore/The-Tome.md) and an old coffin
+- A **hidden rectangular chamber** beyond the door, lit by dim magical lanterns, containing a pedestal with [the Tome](Session%20Notes/Lore/The-Tome.md) and an old coffin
 
 The barrow entrance was torn open by djinn searching for the Tome. James collapsed it by dissolving the keystone with universal solvent. Currently sealed under rubble.
 
@@ -38,7 +38,7 @@ The barrow entrance was torn open by djinn searching for the Tome. James collaps
 
 | Character | Role | File |
 |-----------|------|------|
-| James Everett | Baron, sole resident | [File](../Characters/James-Everett.md) |
+| James Everett | Baron, sole resident | [File](Session%20Notes/Characters/James-Everett.md) |
 
 ## History
 

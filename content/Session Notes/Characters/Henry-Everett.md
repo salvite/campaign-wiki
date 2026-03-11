@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.507-07:00","modified":"2026-02-24T22:50:46.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.507-07:00","modified":"2026-03-10T21:18:39.892-07:00","cssclasses":""}
 ---
 
 
@@ -8,7 +8,7 @@
 **Race/Type:** Human
 **Role:** Former Baron of Shortbrook (James's father)
 **Affiliation:** House Everett
-**Location:** [Shortbrook Estate](../Locations/Shortbrook-Estate.md)
+**Location:** [Shortbrook Estate](Session%20Notes/Locations/Shortbrook-Estate.md)
 **Status:** Dead
 
 ---
@@ -25,7 +25,7 @@ Extravagant, adventurous, and secretive. Spent lavishly on adventures that drain
 
 First Lord Henry Everett of his name. Baron of Shortbrook. Whittled the family coffers down to a fraction of their former glory pursuing extravagant adventures. Left behind no servants, chamberlains, or hunters -- just a diminished estate, a horse named Indigo, and a secret buried in the ancestral barrow.
 
-At some point (approximately seven years before James recovered it), Henry updated the Barrow of James Everett I with newer construction: a blood-warded runed door keyed to Everett blood, a stone bowl on a pedestal for the blood offering, and a hidden chamber beyond containing [the Tome](../Lore/The-Tome.md) resting on a pedestal before an old coffin. The construction was described as perhaps only a decade old at most.
+At some point (approximately seven years before James recovered it), Henry updated the Barrow of James Everett I with newer construction: a blood-warded runed door keyed to Everett blood, a stone bowl on a pedestal for the blood offering, and a hidden chamber beyond containing [the Tome](Session%20Notes/Lore/The-Tome.md) resting on a pedestal before an old coffin. The construction was described as perhaps only a decade old at most.
 
 His final gift to James was Indigo, a mare said to hail from the Elemental Plane of Air.
 
@@ -33,7 +33,7 @@ His final gift to James was Indigo, a mare said to hail from the Elemental Plane
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [James Everett](James-Everett.md) | Son | Left him the estate, Indigo, and the hidden Tome |
+| [James Everett](Session%20Notes/Characters/James-Everett.md) | Son | Left him the estate, Indigo, and the hidden Tome |
 | James Everett I | Ancestor | Henry built over his barrow to hide the Tome |
 
 ## Session Appearances

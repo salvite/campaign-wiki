@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.511-07:00","modified":"2026-02-24T22:50:56.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.511-07:00","modified":"2026-03-10T21:18:39.896-07:00","cssclasses":""}
 ---
 
 
@@ -7,8 +7,8 @@
 
 **Race/Type:** Unknown (likely human)
 **Role:** Leader of the Iron Hand
-**Affiliation:** [Iron Hand](../Factions/Guilds/Iron-Hand.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Common Ring
+**Affiliation:** [Iron Hand](Session%20Notes/Factions/Guilds/Iron-Hand.md)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Common Ring
 **Status:** Active
 
 ---
@@ -34,7 +34,7 @@ Former soldier turned worker-champion. Leads the largest labor organization in S
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Veylorn Stormcrown](Veylorn-Stormcrown.md) | Imperial subject | Potential revolutionary threat |
+| [Veylorn Stormcrown](Session%20Notes/Characters/Veylorn-Stormcrown.md) | Imperial subject | Potential revolutionary threat |
 
 ## Session Appearances
 

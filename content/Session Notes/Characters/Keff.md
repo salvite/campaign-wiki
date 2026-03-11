@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.510-07:00","modified":"2026-02-24T22:51:08.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.510-07:00","modified":"2026-03-10T21:18:39.896-07:00","cssclasses":""}
 ---
 
 
@@ -8,7 +8,7 @@
 **Race/Type:** Halfling (child)
 **Role:** Orphan at the Hollow Hearth; potential witness
 **Affiliation:** Hollow Hearth orphanage
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward (Hollow Hearth orphanage)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Stoneward (Hollow Hearth orphanage)
 **Status:** Active
 
 ---
@@ -33,8 +33,8 @@ A halfling child at the Hollow Hearth orphanage. Interviewed by the party during
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Ms. Thornbloom](Ms-Thornbloom.md) | Caretaker | Orphanage headmistress |
-| [Alira](Alira.md) | Fellow orphan | One of the missing children |
+| [Ms. Thornbloom](Session%20Notes/Characters/Ms-Thornbloom.md) | Caretaker | Orphanage headmistress |
+| [Alira](Session%20Notes/Characters/Alira.md) | Fellow orphan | One of the missing children |
 
 ## Session Appearances
 

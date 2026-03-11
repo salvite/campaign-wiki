@@ -1,18 +1,18 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.522-07:00","modified":"2026-02-24T22:51:30.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.522-07:00","modified":"2026-03-10T21:18:39.913-07:00","cssclasses":""}
 ---
 
 
 # The Tome
 
 **Category:** Magic / Artifact
-**Related:** [James Everett](../Characters/James-Everett.md), [Henry Everett](../Characters/Henry-Everett.md), [Shortbrook Estate](../Locations/Shortbrook-Estate.md)
+**Related:** [James Everett](Session%20Notes/Characters/James-Everett.md), [Henry Everett](Session%20Notes/Characters/Henry-Everett.md), [Shortbrook Estate](Session%20Notes/Locations/Shortbrook-Estate.md)
 
 ---
 
 ## Summary
 
-A sentient leather-bound book recovered by [Lord James Everett](../Characters/James-Everett.md) from the Barrow of James Everett I on the [Shortbrook Estate](../Locations/Shortbrook-Estate.md). Hidden there by his father, [Lord Henry Everett](../Characters/Henry-Everett.md), behind blood-wards keyed to Everett lineage. The Tome can consume beings and inscribe knowledge onto its pages.
+A sentient leather-bound book recovered by [Lord James Everett](Session%20Notes/Characters/James-Everett.md) from the Barrow of James Everett I on the [Shortbrook Estate](Session%20Notes/Locations/Shortbrook-Estate.md). Hidden there by his father, [Lord Henry Everett](Session%20Notes/Characters/Henry-Everett.md), behind blood-wards keyed to Everett lineage. The Tome can consume beings and inscribe knowledge onto its pages.
 
 ## Known Properties
 

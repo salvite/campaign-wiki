@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.513-07:00","modified":"2026-02-24T22:50:50.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.513-07:00","modified":"2026-03-10T21:18:39.898-07:00","cssclasses":""}
 ---
 
 
@@ -7,8 +7,8 @@
 
 **Race/Type:** Marid (Water Genie)
 **Role:** Bound Court member -- Lady of the Deep Mirror
-**Affiliation:** [Bound Court](../Factions/Bound-Court.md), [Azure Concord](../Factions/Guilds/Azure-Concord.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Sapphire Docks (Water Quarter)
+**Affiliation:** [Bound Court](Session%20Notes/Factions/Bound-Court.md), [Azure Concord](Session%20Notes/Factions/Guilds/Azure-Concord.md)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Sapphire Docks (Water Quarter)
 **Status:** Active
 
 ---
@@ -48,11 +48,11 @@ Once ruled her own water realm before being bound to serve the Stormcrown. Built
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Veylorn Stormcrown](Veylorn-Stormcrown.md) | Master (resented) | Serves under the emperor |
-| [Ilyra Moondrift](Ilyra-Moondrift.md) | Subordinate guild leader | Matron of the Azure Concord |
-| [Khazir](Khazir.md) | Rival/peer | Fellow Bound Court member |
-| [Vorak](Vorak.md) | Rival/peer | Fellow Bound Court member |
-| [Thaljin](Thaljin.md) | Rival/peer | Fellow Bound Court member |
+| [Veylorn Stormcrown](Session%20Notes/Characters/Veylorn-Stormcrown.md) | Master (resented) | Serves under the emperor |
+| [Ilyra Moondrift](Session%20Notes/Characters/Ilyra-Moondrift.md) | Subordinate guild leader | Matron of the Azure Concord |
+| [Khazir](Session%20Notes/Characters/Khazir.md) | Rival/peer | Fellow Bound Court member |
+| [Vorak](Session%20Notes/Characters/Vorak.md) | Rival/peer | Fellow Bound Court member |
+| [Thaljin](Session%20Notes/Characters/Thaljin.md) | Rival/peer | Fellow Bound Court member |
 
 ## Session Appearances
 

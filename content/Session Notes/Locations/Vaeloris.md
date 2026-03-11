@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.503-07:00","modified":"2026-02-24T22:51:10.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.503-07:00","modified":"2026-03-10T21:18:39.872-07:00","cssclasses":""}
 ---
 
 
@@ -7,7 +7,7 @@
 
 **Type:** Continent
 **Region:** -
-**Controlled by:** Various (dominated by the [Stormcrown Empire](../Factions/Stormcrown-Empire.md))
+**Controlled by:** Various (dominated by the [Stormcrown Empire](Session%20Notes/Factions/Stormcrown-Empire.md))
 **Population:** Unknown
 
 ---
@@ -20,11 +20,11 @@ A vast continent shaped by ancient wars between dragons, genies, and mortal empi
 
 | Region | Direction | File |
 |--------|-----------|------|
-| Stormcrown Empire (Central) | Central | [Stormspire](Stormspire.md) / [Empire](../Factions/Stormcrown-Empire.md) |
-| Frostward Peaks | North | [Frostward-Peaks](Frostward-Peaks.md) |
-| Verdant Wilds | East | [Verdant-Wilds](Verdant-Wilds.md) |
-| Sapphire Coast | West | [Sapphire-Coast](Sapphire-Coast.md) |
-| Shattered Sands | South | [Shattered-Sands](Shattered-Sands.md) |
+| Stormcrown Empire (Central) | Central | [Stormspire](Session%20Notes/Locations/Stormspire.md) / [Empire](Session%20Notes/Factions/Stormcrown-Empire.md) |
+| Frostward Peaks | North | [Frostward-Peaks](Session%20Notes/Locations/Frostward-Peaks.md) |
+| Verdant Wilds | East | [Verdant-Wilds](Session%20Notes/Locations/Verdant-Wilds.md) |
+| Sapphire Coast | West | [Sapphire-Coast](Session%20Notes/Locations/Sapphire-Coast.md) |
+| Shattered Sands | South | [Shattered-Sands](Session%20Notes/Locations/Shattered-Sands.md) |
 
 ## History
 

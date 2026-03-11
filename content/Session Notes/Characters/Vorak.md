@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.519-07:00","modified":"2026-02-24T22:50:52.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.519-07:00","modified":"2026-03-10T21:18:39.909-07:00","cssclasses":""}
 ---
 
 
@@ -7,8 +7,8 @@
 
 **Race/Type:** Dao (Earth Genie)
 **Role:** Bound Court member -- Lord of Stone
-**Affiliation:** [Bound Court](../Factions/Bound-Court.md), [Stonewright League](../Factions/Guilds/Stonewright-League.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward (Earth Quarter)
+**Affiliation:** [Bound Court](Session%20Notes/Factions/Bound-Court.md), [Stonewright League](Session%20Notes/Factions/Guilds/Stonewright-League.md)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Stoneward (Earth Quarter)
 **Status:** Active
 
 ---
@@ -43,11 +43,11 @@ Once ruler of his own earth realm before being bound to serve the Stormcrown. Bu
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Veylorn Stormcrown](Veylorn-Stormcrown.md) | Master (resented) | Resents the emperor receiving glory for his labor |
-| [Thaldrum Stonehand](Thaldrum-Stonehand.md) | Subordinate guild leader | Leader of the Stonewright League |
-| [Khazir](Khazir.md) | Rival/peer | Fellow Bound Court member |
-| [Nerasa](Nerasa.md) | Rival/peer | Fellow Bound Court member |
-| [Thaljin](Thaljin.md) | Rival/peer | Fellow Bound Court member |
+| [Veylorn Stormcrown](Session%20Notes/Characters/Veylorn-Stormcrown.md) | Master (resented) | Resents the emperor receiving glory for his labor |
+| [Thaldrum Stonehand](Session%20Notes/Characters/Thaldrum-Stonehand.md) | Subordinate guild leader | Leader of the Stonewright League |
+| [Khazir](Session%20Notes/Characters/Khazir.md) | Rival/peer | Fellow Bound Court member |
+| [Nerasa](Session%20Notes/Characters/Nerasa.md) | Rival/peer | Fellow Bound Court member |
+| [Thaljin](Session%20Notes/Characters/Thaljin.md) | Rival/peer | Fellow Bound Court member |
 
 ## Session Appearances
 

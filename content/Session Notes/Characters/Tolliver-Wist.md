@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.516-07:00","modified":"2026-03-08T22:50:16.000-07:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.516-07:00","modified":"2026-03-10T21:18:39.903-07:00","cssclasses":""}
 ---
 
 
@@ -7,8 +7,8 @@
 
 **Race/Type:** Halfling
 **Role:** PC
-**Affiliation:** [Argent Wardens](../Factions/Guilds/Argent-Wardens.md) (new recruit)
-**Location:** [Stormspire](../Locations/Stormspire.md)
+**Affiliation:** [Argent Wardens](Session%20Notes/Factions/Guilds/Argent-Wardens.md) (new recruit)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md)
 **Status:** Active
 
 ---
@@ -35,9 +35,9 @@ Grew up in an orphanage (not the Hollow Hearth -- a different one). While there,
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [James Everett](James-Everett.md) | Fellow party member | PC |
-| [Sue Nommy](Sue-Nommy.md) | Fellow party member | PC |
-| [Veil Corryn](Veil-Corryn.md) | Quest giver | Assigned introductory mission |
+| [James Everett](Session%20Notes/Characters/James-Everett.md) | Fellow party member | PC |
+| [Sue Nommy](Session%20Notes/Characters/Sue-Nommy.md) | Fellow party member | PC |
+| [Veil Corryn](Session%20Notes/Characters/Veil-Corryn.md) | Quest giver | Assigned introductory mission |
 
 ## Session Appearances
 
@@ -49,4 +49,4 @@ Grew up in an orphanage (not the Hollow Hearth -- a different one). While there,
 ## Notes
 
 - Stormspire local -- likely has useful knowledge of the city's streets, districts, and underworld
-- Has an informant network including [Goody Two Shoes](Goody-Two-Shoes.md), an elderly dragonborn
+- Has an informant network including [Goody Two Shoes](Session%20Notes/Characters/Goody-Two-Shoes.md), an elderly dragonborn

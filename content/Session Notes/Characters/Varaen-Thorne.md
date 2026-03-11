@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.517-07:00","modified":"2026-02-24T22:50:54.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.517-07:00","modified":"2026-03-10T21:18:39.903-07:00","cssclasses":""}
 ---
 
 
@@ -7,8 +7,8 @@
 
 **Race/Type:** Unknown (likely human)
 **Role:** Guildmaster of the Argent Wardens
-**Affiliation:** [Argent Wardens](../Factions/Guilds/Argent-Wardens.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Common Ring
+**Affiliation:** [Argent Wardens](Session%20Notes/Factions/Guilds/Argent-Wardens.md)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Common Ring
 **Status:** Active
 
 ---
@@ -34,7 +34,7 @@ Retired war hero turned guildmaster. Leads the empire's premier adventuring guil
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Veylorn Stormcrown](Veylorn-Stormcrown.md) | Imperial subject | Rumors say he secretly reports to the Whisperwind Spire |
+| [Veylorn Stormcrown](Session%20Notes/Characters/Veylorn-Stormcrown.md) | Imperial subject | Rumors say he secretly reports to the Whisperwind Spire |
 
 ## Session Appearances
 

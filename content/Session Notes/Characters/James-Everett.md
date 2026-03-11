@@ -1,16 +1,16 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.509-07:00","modified":"2026-03-08T22:50:14.000-07:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.509-07:00","modified":"2026-03-10T21:18:39.895-07:00","cssclasses":""}
 ---
 
 
 # Lord James Everett
 
-> **[Character Sheet](James-Everett-Sheet.md)** | Rogue 1
+> **[Character Sheet](Session%20Notes/Characters/James-Everett-Sheet.md)** | Rogue 1
 
 **Race/Type:** Human
 **Role:** PC -- Baron of Shortbrook
 **Affiliation:** House Everett
-**Location:** [Shortbrook Estate](../Locations/Shortbrook-Estate.md) (origin)
+**Location:** [Shortbrook Estate](Session%20Notes/Locations/Shortbrook-Estate.md) (origin)
 **Status:** Active
 
 ---
@@ -25,7 +25,7 @@ Bold, self-reliant, and driven by stubborn family pride. Refuses to delegate dan
 
 ## Background
 
-Seventh Lord James Everett of his name, Baron of Shortbrook. His family has held a small moorland estate for centuries, though it has fallen into decline. His father, the late [Lord Henry Everett](Henry-Everett.md), squandered the family coffers on extravagant adventures, leaving behind no servants, no chamberlains, no hunters -- just the estate, a horse, and apparently one last secret.
+Seventh Lord James Everett of his name, Baron of Shortbrook. His family has held a small moorland estate for centuries, though it has fallen into decline. His father, the late [Lord Henry Everett](Session%20Notes/Characters/Henry-Everett.md), squandered the family coffers on extravagant adventures, leaving behind no servants, no chamberlains, no hunters -- just the estate, a horse, and apparently one last secret.
 
 ### The Barrow Incident
 
@@ -47,12 +47,12 @@ James resolved to take up the family tradition of adventure, and perhaps build t
 ## Family
 
 - **Family Motto:** *"When someone must, it shall be us."*
-- **Father:** [Lord Henry Everett](Henry-Everett.md) (deceased) -- squandered family wealth on extravagant adventures; secretly hid the Tome in the ancestral barrow behind blood-wards
+- **Father:** [Lord Henry Everett](Session%20Notes/Characters/Henry-Everett.md) (deceased) -- squandered family wealth on extravagant adventures; secretly hid the Tome in the ancestral barrow behind blood-wards
 - **Ancestor:** Lord James Everett I -- first of his name, buried in the barrow nearly five centuries ago
 
 ## Equipment / Resources
 
-- **[The Tome](../Lore/The-Tome.md):** A sentient leather-bound book recovered from the ancestral barrow. Can consume beings and inscribe knowledge onto its pages. Its full nature and capabilities are unknown.
+- **[The Tome](Session%20Notes/Lore/The-Tome.md):** A sentient leather-bound book recovered from the ancestral barrow. Can consume beings and inscribe knowledge onto its pages. Its full nature and capabilities are unknown.
 - **Indigo:** A breathtaking mare the color of midnight bruised with starlight, said to hail from the Elemental Plane of Air. Swift, sure-footed, and uncannily quiet -- seems to listen to a man's thoughts before he speaks them. His father's final gift and perhaps the last thing of value on the estate besides the land itself.
 - **Whip:** His trusty weapon of choice. Used it to snatch the Tome from the pedestal at a critical moment.
 - **Universal Solvent:** Carried a vial (used on the barrow keystone; likely spent).
@@ -61,10 +61,10 @@ James resolved to take up the family tradition of adventure, and perhaps build t
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Henry Everett](Henry-Everett.md) | Father (deceased) | Left behind secrets alongside debts |
-| [Tolliver Wist](Tolliver-Wist.md) | Party member (PC) | Shady halfling from Stormspire |
-| [Sue Nommy](Sue-Nommy.md) | Party member (PC) | Octopus-human hybrid druid from Bikini Bottom |
-| [Veil Corryn](Veil-Corryn.md) | Quest giver | Argent Wardens second-in-command; assigned introductory mission |
+| [Henry Everett](Session%20Notes/Characters/Henry-Everett.md) | Father (deceased) | Left behind secrets alongside debts |
+| [Tolliver Wist](Session%20Notes/Characters/Tolliver-Wist.md) | Party member (PC) | Shady halfling from Stormspire |
+| [Sue Nommy](Session%20Notes/Characters/Sue-Nommy.md) | Party member (PC) | Octopus-human hybrid druid from Bikini Bottom |
+| [Veil Corryn](Session%20Notes/Characters/Veil-Corryn.md) | Quest giver | Argent Wardens second-in-command; assigned introductory mission |
 
 ## Session Appearances
 

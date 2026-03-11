@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.493-07:00","modified":"2026-03-08T22:39:34.000-07:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.493-07:00","modified":"2026-03-10T21:18:39.867-07:00","cssclasses":""}
 ---
 
 
 # Argent Wardens
 
 **Type:** Guild (Adventuring / Military)
-**Leader:** [Varaen Thorne](../../Characters/Varaen-Thorne.md) -- Guildmaster
-**Base:** [Stormspire](../../Locations/Stormspire.md) -- Common Ring
+**Leader:** [Varaen Thorne](Session%20Notes/Characters/Varaen-Thorne.md) -- Guildmaster
+**Base:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Common Ring
 **Allegiance:** Ostensibly independent; rumored imperial ties
 
 ---
@@ -22,7 +22,7 @@ Discipline, honor, and strength. Entry requires passing rigorous trials to ensur
 
 ## Known Facilities
 
-- **The Argent Colleges** -- a research institution in [Stormspire](../../Locations/Stormspire.md), used by the party to research the Silver Tyrant (Session 2)
+- **The Argent Colleges** -- a research institution in [Stormspire](Session%20Notes/Locations/Stormspire.md), used by the party to research the Silver Tyrant (Session 2)
 
 ## Operations
 
@@ -35,8 +35,8 @@ Discipline, honor, and strength. Entry requires passing rigorous trials to ensur
 
 | Name | Role | File |
 |------|------|------|
-| Varaen Thorne | Guildmaster | [File](../../Characters/Varaen-Thorne.md) |
-| Veil Corryn | Second-in-command | [File](../../Characters/Veil-Corryn.md) |
+| Varaen Thorne | Guildmaster | [File](Session%20Notes/Characters/Varaen-Thorne.md) |
+| Veil Corryn | Second-in-command | [File](Session%20Notes/Characters/Veil-Corryn.md) |
 
 ## Relationships
 

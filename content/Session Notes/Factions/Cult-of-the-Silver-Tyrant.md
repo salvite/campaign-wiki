@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.481-07:00","modified":"2026-03-09T00:23:50.000-07:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.481-07:00","modified":"2026-03-10T21:18:39.866-07:00","cssclasses":""}
 ---
 
 
@@ -7,14 +7,14 @@
 
 **Type:** Cult
 **Leader:** Unknown
-**Base:** The Gloam (underground [Stormspire](../Locations/Stormspire.md))
+**Base:** The Gloam (underground [Stormspire](Session%20Notes/Locations/Stormspire.md))
 **Allegiance:** The Silver Tyrant
 
 ---
 
 ## Overview
 
-A cult devoted to the Silver Tyrant, the ancient enemy defeated by Emperor [Veylorn Stormcrown](../Characters/Veylorn-Stormcrown.md) over 800 years ago when the [Stormcrown Empire](Stormcrown-Empire.md) was founded. Identified by [Veil Corryn](../Characters/Veil-Corryn.md) from their medallion symbol: a door being broken from chains.
+A cult devoted to the Silver Tyrant, the ancient enemy defeated by Emperor [Veylorn Stormcrown](Session%20Notes/Characters/Veylorn-Stormcrown.md) over 800 years ago when the [Stormcrown Empire](Session%20Notes/Factions/Stormcrown-Empire.md) was founded. Identified by [Veil Corryn](Session%20Notes/Characters/Veil-Corryn.md) from their medallion symbol: a door being broken from chains.
 
 ## Structure
 
@@ -45,8 +45,8 @@ Unknown. Members encountered so far wear black coats with silver accents, carry 
 
 | Faction | Stance | Notes |
 |---------|--------|-------|
-| [Stormcrown Empire](Stormcrown-Empire.md) | Opposed | The Silver Tyrant was the empire's founding enemy |
-| [Argent Wardens](Guilds/Argent-Wardens.md) | Opposed | Wardens are investigating the cult's activities |
+| [Stormcrown Empire](Session%20Notes/Factions/Stormcrown-Empire.md) | Opposed | The Silver Tyrant was the empire's founding enemy |
+| [Argent Wardens](Session%20Notes/Factions/Guilds/Argent-Wardens.md) | Opposed | Wardens are investigating the cult's activities |
 
 ## Session Appearances
 

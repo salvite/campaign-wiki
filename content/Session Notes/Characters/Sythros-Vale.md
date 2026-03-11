@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.514-07:00","modified":"2026-02-24T22:50:56.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.514-07:00","modified":"2026-03-10T21:18:39.902-07:00","cssclasses":""}
 ---
 
 
@@ -7,8 +7,8 @@
 
 **Race/Type:** Air Genasi
 **Role:** Gale-King of the Zephyr Syndicate
-**Affiliation:** [Zephyr Syndicate](../Factions/Guilds/Zephyr-Syndicate.md), tied to [Thal'jin](Thaljin.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Zephyr Heights
+**Affiliation:** [Zephyr Syndicate](Session%20Notes/Factions/Guilds/Zephyr-Syndicate.md), tied to [Thal'jin](Session%20Notes/Characters/Thaljin.md)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Zephyr Heights
 **Status:** Active
 
 ---
@@ -34,7 +34,7 @@ Leads the Zephyr Syndicate, managing airship trade, courier services, smuggling,
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Thaljin](Thaljin.md) | Superior / patron | Serves under Thal'jin's oversight |
+| [Thaljin](Session%20Notes/Characters/Thaljin.md) | Superior / patron | Serves under Thal'jin's oversight |
 
 ## Session Appearances
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.506-07:00","modified":"2026-03-08T22:23:50.000-07:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.506-07:00","modified":"2026-03-10T21:18:39.873-07:00","cssclasses":""}
 ---
 
 
@@ -8,7 +8,7 @@
 **Race/Type:** Dragonborn (elderly)
 **Role:** Informant
 **Affiliation:** None known
-**Location:** [Stormspire](../Locations/Stormspire.md)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md)
 **Status:** Active
 
 ---
@@ -23,7 +23,7 @@ Shady. Operates as a street-level informant.
 
 ## Background
 
-An informant and friend of [Tolliver Wist](Tolliver-Wist.md). Details of their history together not yet established.
+An informant and friend of [Tolliver Wist](Session%20Notes/Characters/Tolliver-Wist.md). Details of their history together not yet established.
 
 ## Abilities / Resources
 
@@ -33,7 +33,7 @@ An informant and friend of [Tolliver Wist](Tolliver-Wist.md). Details of their h
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Tolliver Wist](Tolliver-Wist.md) | Friend / informant | Tolliver brought the party to meet them |
+| [Tolliver Wist](Session%20Notes/Characters/Tolliver-Wist.md) | Friend / informant | Tolliver brought the party to meet them |
 
 ## Session Appearances
 

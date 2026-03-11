@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.515-07:00","modified":"2026-02-24T22:51:00.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.515-07:00","modified":"2026-03-10T21:18:39.902-07:00","cssclasses":""}
 ---
 
 
@@ -7,8 +7,8 @@
 
 **Race/Type:** Dwarf
 **Role:** Leader of the Stonewright League
-**Affiliation:** [Stonewright League](../Factions/Guilds/Stonewright-League.md), tied to [Vorak](Vorak.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Stoneward
+**Affiliation:** [Stonewright League](Session%20Notes/Factions/Guilds/Stonewright-League.md), tied to [Vorak](Session%20Notes/Characters/Vorak.md)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Stoneward
 **Status:** Active
 
 ---
@@ -36,7 +36,7 @@ Leads the Stonewright League, overseeing all construction, mining, and architect
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Vorak](Vorak.md) | Superior / patron | Serves under Vorak's oversight |
+| [Vorak](Session%20Notes/Characters/Vorak.md) | Superior / patron | Serves under Vorak's oversight |
 
 ## Session Appearances
 

@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.508-07:00","modified":"2026-02-24T22:50:46.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.508-07:00","modified":"2026-03-10T21:18:39.895-07:00","cssclasses":""}
 ---
 
 
@@ -120,7 +120,7 @@ Point Buy (27 points) + Noble background (+2 DEX, +1 INT):
 - Explorer's pack (backpack, bedroll, mess kit, tinderbox, 10 torches, 10 days rations, waterskin, 50 ft rope)
 
 ### Backstory Items
-- **[The Tome](../Lore/The-Tome.md):** Sentient book recovered from the ancestral barrow. Capabilities TBD with DM.
+- **[The Tome](Session%20Notes/Lore/The-Tome.md):** Sentient book recovered from the ancestral barrow. Capabilities TBD with DM.
 - **Indigo:** Planar-blooded mare from the Elemental Plane of Air. Swift, sure-footed, and eerily perceptive. (Riding horse stats, potentially enhanced.)
 
 ---

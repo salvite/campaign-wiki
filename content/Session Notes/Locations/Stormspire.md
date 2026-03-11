@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.502-07:00","modified":"2026-03-08T22:58:02.000-07:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.502-07:00","modified":"2026-03-10T21:18:39.871-07:00","cssclasses":""}
 ---
 
 
@@ -7,7 +7,7 @@
 
 **Type:** Capital City
 **Region:** Central Vaeloris
-**Controlled by:** [Stormcrown Empire](../Factions/Stormcrown-Empire.md) / [Veylorn Stormcrown](../Characters/Veylorn-Stormcrown.md)
+**Controlled by:** [Stormcrown Empire](Session%20Notes/Factions/Stormcrown-Empire.md) / [Veylorn Stormcrown](Session%20Notes/Characters/Veylorn-Stormcrown.md)
 **Population:** ~1.5 million (humans, dwarves, elves, orcs, genasi, and others)
 
 ---
@@ -22,11 +22,11 @@ Character: Proud, orderly, industrious, with simmering underlying tension.
 
 | District | Quarter | Ruler | Description |
 |----------|---------|-------|-------------|
-| Tempest Crown | Imperial | [Veylorn](../Characters/Veylorn-Stormcrown.md) | Stormspire Citadel (emperor's fortress-palace), Obsidian Cabal (mage order), elite Stormguard |
-| Crucible District | Forge (Fire) | [Khazir](../Characters/Khazir.md) | Foundries, forges, smelters. Weapons, armor, magical constructs. Fire genasi artisans, efreeti-smith apprentices |
-| Sapphire Docks | Water | [Nerasa](../Characters/Nerasa.md) | Canal-based markets, harbors, exotic goods. Controls food supply and wealth. Water-wielding priests, Marid-descended nobles |
-| Zephyr Heights | Air | [Thaljin](../Characters/Thaljin.md) | Slender spires, sky bridges, airship docks. Whisperwind Spire (intelligence). Aristocrats, scholars, diplomats |
-| Stoneward | Earth | [Vorak](../Characters/Vorak.md) | Oldest section. Massive stone halls, workshops, underground tunnels. Miners, masons, earth genasi clans. The Hollow Hearth orphanage (run by Ms. Thornbloom) is located here |
+| Tempest Crown | Imperial | [Veylorn](Session%20Notes/Characters/Veylorn-Stormcrown.md) | Stormspire Citadel (emperor's fortress-palace), Obsidian Cabal (mage order), elite Stormguard |
+| Crucible District | Forge (Fire) | [Khazir](Session%20Notes/Characters/Khazir.md) | Foundries, forges, smelters. Weapons, armor, magical constructs. Fire genasi artisans, efreeti-smith apprentices |
+| Sapphire Docks | Water | [Nerasa](Session%20Notes/Characters/Nerasa.md) | Canal-based markets, harbors, exotic goods. Controls food supply and wealth. Water-wielding priests, Marid-descended nobles |
+| Zephyr Heights | Air | [Thaljin](Session%20Notes/Characters/Thaljin.md) | Slender spires, sky bridges, airship docks. Whisperwind Spire (intelligence). Aristocrats, scholars, diplomats |
+| Stoneward | Earth | [Vorak](Session%20Notes/Characters/Vorak.md) | Oldest section. Massive stone halls, workshops, underground tunnels. Miners, masons, earth genasi clans. The Hollow Hearth orphanage (run by Ms. Thornbloom) is located here |
 | Common Ring | Outer | None specific | Merchants, farmers, common folk. Markets, inns, guild halls, temples. Less strictly controlled. Hosts elemental festivals |
 | The Gloam | Underground | Unknown | The city's sewer and water network repurposed as an underground district. Hosts the seedier, shadier elements of Stormspire. The cult of the Silver Tyrant operates here. |
 
@@ -50,12 +50,12 @@ Character: Proud, orderly, industrious, with simmering underlying tension.
 
 | Guild | Domain | File |
 |-------|--------|------|
-| Argent Wardens | Adventuring, monster hunting | [File](../Factions/Guilds/Argent-Wardens.md) |
-| Azure Concord | Maritime trade, banking | [File](../Factions/Guilds/Azure-Concord.md) |
-| Emberforge Consortium | Smithing, war machines | [File](../Factions/Guilds/Emberforge-Consortium.md) |
-| Iron Hand | Labor, workers' rights | [File](../Factions/Guilds/Iron-Hand.md) |
-| Stonewright League | Construction, mining | [File](../Factions/Guilds/Stonewright-League.md) |
-| Zephyr Syndicate | Airship trade, smuggling | [File](../Factions/Guilds/Zephyr-Syndicate.md) |
+| Argent Wardens | Adventuring, monster hunting | [File](Session%20Notes/Factions/Guilds/Argent-Wardens.md) |
+| Azure Concord | Maritime trade, banking | [File](Session%20Notes/Factions/Guilds/Azure-Concord.md) |
+| Emberforge Consortium | Smithing, war machines | [File](Session%20Notes/Factions/Guilds/Emberforge-Consortium.md) |
+| Iron Hand | Labor, workers' rights | [File](Session%20Notes/Factions/Guilds/Iron-Hand.md) |
+| Stonewright League | Construction, mining | [File](Session%20Notes/Factions/Guilds/Stonewright-League.md) |
+| Zephyr Syndicate | Airship trade, smuggling | [File](Session%20Notes/Factions/Guilds/Zephyr-Syndicate.md) |
 
 ## Session Appearances
 

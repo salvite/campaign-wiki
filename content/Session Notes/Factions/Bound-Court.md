@@ -1,13 +1,13 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.477-07:00","modified":"2026-03-08T22:49:24.000-07:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.477-07:00","modified":"2026-03-10T21:18:39.865-07:00","cssclasses":""}
 ---
 
 
 # Bound Court
 
 **Type:** Ruling Council (elemental sovereigns)
-**Leader:** Serves under [Veylorn Stormcrown](../Characters/Veylorn-Stormcrown.md)
-**Base:** [Stormspire](../Locations/Stormspire.md) -- each member rules one quarter
+**Leader:** Serves under [Veylorn Stormcrown](Session%20Notes/Characters/Veylorn-Stormcrown.md)
+**Base:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- each member rules one quarter
 **Allegiance:** Bound to the Stormcrown (reluctantly)
 
 ---
@@ -20,10 +20,10 @@ Four elemental djinn who were originally used by Veylorn to fight against the Si
 
 | Member | Element | Domain | Quarter | File |
 |--------|---------|--------|---------|------|
-| Khazir | Fire (Efreeti) | Forges, military, war machines | Crucible District | [File](../Characters/Khazir.md) |
-| Nerasa | Water (Marid) | Commerce, navy, dreams | Sapphire Docks | [File](../Characters/Nerasa.md) |
-| Thal'jin | Air (Djinni) | Espionage, airships, weather | Zephyr Heights | [File](../Characters/Thaljin.md) |
-| Vorak | Earth (Dao) | Construction, mining, fortifications | Stoneward | [File](../Characters/Vorak.md) |
+| Khazir | Fire (Efreeti) | Forges, military, war machines | Crucible District | [File](Session%20Notes/Characters/Khazir.md) |
+| Nerasa | Water (Marid) | Commerce, navy, dreams | Sapphire Docks | [File](Session%20Notes/Characters/Nerasa.md) |
+| Thal'jin | Air (Djinni) | Espionage, airships, weather | Zephyr Heights | [File](Session%20Notes/Characters/Thaljin.md) |
+| Vorak | Earth (Dao) | Construction, mining, fortifications | Stoneward | [File](Session%20Notes/Characters/Vorak.md) |
 
 ## Goals
 
@@ -43,7 +43,7 @@ All four members resent their subordination to Veylorn. This resentment manifest
 
 | Faction | Stance | Notes |
 |---------|--------|-------|
-| [Stormcrown Empire](Stormcrown-Empire.md) | Bound service | Essential but resentful pillars |
+| [Stormcrown Empire](Session%20Notes/Factions/Stormcrown-Empire.md) | Bound service | Essential but resentful pillars |
 | Each other | Competitive rivalry | Peer tension within the court |
 
 ## Session Appearances

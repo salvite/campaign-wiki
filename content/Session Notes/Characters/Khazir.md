@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.511-07:00","modified":"2026-02-24T22:50:48.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.511-07:00","modified":"2026-03-10T21:18:39.896-07:00","cssclasses":""}
 ---
 
 
@@ -7,8 +7,8 @@
 
 **Race/Type:** Efreeti (Fire Genie)
 **Role:** Bound Court member -- Lord of Flame
-**Affiliation:** [Bound Court](../Factions/Bound-Court.md), [Emberforge Consortium](../Factions/Guilds/Emberforge-Consortium.md)
-**Location:** [Stormspire](../Locations/Stormspire.md) -- Crucible District (Forge Quarter)
+**Affiliation:** [Bound Court](Session%20Notes/Factions/Bound-Court.md), [Emberforge Consortium](Session%20Notes/Factions/Guilds/Emberforge-Consortium.md)
+**Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Crucible District (Forge Quarter)
 **Status:** Active
 
 ---
@@ -43,11 +43,11 @@ Once ruler of his own realm before being bound to serve the Stormcrown. Built th
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [Veylorn Stormcrown](Veylorn-Stormcrown.md) | Master (resented) | Harbors desire for independence |
-| [Zarnak Ironflame](Zarnak-Ironflame.md) | Subordinate guild leader | Forge-Master of the Emberforge Consortium |
-| [Vorak](Vorak.md) | Rival/peer | Fellow Bound Court member |
-| [Nerasa](Nerasa.md) | Rival/peer | Fellow Bound Court member |
-| [Thaljin](Thaljin.md) | Rival/peer | Fellow Bound Court member |
+| [Veylorn Stormcrown](Session%20Notes/Characters/Veylorn-Stormcrown.md) | Master (resented) | Harbors desire for independence |
+| [Zarnak Ironflame](Session%20Notes/Characters/Zarnak-Ironflame.md) | Subordinate guild leader | Forge-Master of the Emberforge Consortium |
+| [Vorak](Session%20Notes/Characters/Vorak.md) | Rival/peer | Fellow Bound Court member |
+| [Nerasa](Session%20Notes/Characters/Nerasa.md) | Rival/peer | Fellow Bound Court member |
+| [Thaljin](Session%20Notes/Characters/Thaljin.md) | Rival/peer | Fellow Bound Court member |
 
 ## Session Appearances
 

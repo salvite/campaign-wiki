@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.497-07:00","modified":"2026-02-24T22:50:44.000-08:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.497-07:00","modified":"2026-03-10T21:18:39.869-07:00","cssclasses":""}
 ---
 
 
@@ -7,8 +7,8 @@
 
 **Date:** 2026-02-22
 **In-game date:** Unknown
-**Location(s):** [Stormspire](../Locations/Stormspire.md) -- Stoneward (Hollow Hearth orphanage)
-**NPCs encountered:** [Veil Corryn](../Characters/Veil-Corryn.md), [Ms. Thornbloom](../Characters/Ms-Thornbloom.md), [Keff](../Characters/Keff.md), [Ashion](../Characters/Ashion.md)
+**Location(s):** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Stoneward (Hollow Hearth orphanage)
+**NPCs encountered:** [Veil Corryn](Session%20Notes/Characters/Veil-Corryn.md), [Ms. Thornbloom](Session%20Notes/Characters/Ms-Thornbloom.md), [Keff](Session%20Notes/Characters/Keff.md), [Ashion](Session%20Notes/Characters/Ashion.md)
 
 ---
 
@@ -20,17 +20,17 @@ The party received their introductory mission from Veil Corryn of the Argent War
 
 ### Mission Assignment
 
-[Veil Corryn](../Characters/Veil-Corryn.md), second-in-command of the Argent Wardens, assigned the party their first mission: go to the Hollow Hearth orphanage and find a missing child named [Alira](../Characters/Alira.md) who had magical promise valuable to the guild.
+[Veil Corryn](Session%20Notes/Characters/Veil-Corryn.md), second-in-command of the Argent Wardens, assigned the party their first mission: go to the Hollow Hearth orphanage and find a missing child named [Alira](Session%20Notes/Characters/Alira.md) who had magical promise valuable to the guild.
 
 ### Investigation at the Hollow Hearth
 
-The party met with [Ms. Thornbloom](../Characters/Ms-Thornbloom.md), who revealed the situation was worse than expected. Six magically talented children have disappeared -- not just Alira. Men claiming to be members of various guilds would visit, interview children, and then those children would vanish from the orphanage in the night.
+The party met with [Ms. Thornbloom](Session%20Notes/Characters/Ms-Thornbloom.md), who revealed the situation was worse than expected. Six magically talented children have disappeared -- not just Alira. Men claiming to be members of various guilds would visit, interview children, and then those children would vanish from the orphanage in the night.
 
 Alira's orphanage folder had been partially burned. Surviving text indicated she "failed testing" and was "reclassified."
 
 ### Interview with Keff
 
-[Keff](../Characters/Keff.md), a halfling child, told the party about the "Whisper Man" -- a figure in a cloak of black feathers who appears to almost float off the ground. He visits the orphanage and whispers to children. Alira had been bragging about being "chosen" before she disappeared. Keff also said Alira talked in her sleep about a door and would scream when it opened.
+[Keff](Session%20Notes/Characters/Keff.md), a halfling child, told the party about the "Whisper Man" -- a figure in a cloak of black feathers who appears to almost float off the ground. He visits the orphanage and whispers to children. Alira had been bragging about being "chosen" before she disappeared. Keff also said Alira talked in her sleep about a door and would scream when it opened.
 
 ### Alira's Room
 
@@ -40,7 +40,7 @@ The party searched Alira's room and found:
 
 ### Setting a Lookout
 
-[James](../Characters/James-Everett.md) instructed [Ashion](../Characters/Ashion.md), a small tiefling orphan, to inscribe a Thieves' Cant symbol on the outside of the building if another child interview occurs.
+[James](Session%20Notes/Characters/James-Everett.md) instructed [Ashion](Session%20Notes/Characters/Ashion.md), a small tiefling orphan, to inscribe a Thieves' Cant symbol on the outside of the building if another child interview occurs.
 
 ### Ambush Outside the Orphanage
 

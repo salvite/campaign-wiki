@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.513-07:00","modified":"2026-03-08T22:50:28.000-07:00","cssclasses":""}
+{"publish":true,"created":"2026-03-10T21:15:52.513-07:00","modified":"2026-03-10T21:18:39.901-07:00","cssclasses":""}
 ---
 
 
@@ -7,7 +7,7 @@
 
 **Race/Type:** Octopus-human hybrid
 **Role:** PC -- Druid
-**Affiliation:** [Argent Wardens](../Factions/Guilds/Argent-Wardens.md) (new recruit)
+**Affiliation:** [Argent Wardens](Session%20Notes/Factions/Guilds/Argent-Wardens.md) (new recruit)
 **Location:** Originally from Bikini Bottom
 **Status:** Active
 
@@ -34,9 +34,9 @@ A druid originating from a place called Bikini Bottom. Her hometown's geothermal
 
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
-| [James Everett](James-Everett.md) | Fellow party member | PC |
-| [Tolliver Wist](Tolliver-Wist.md) | Fellow party member | PC |
-| [Veil Corryn](Veil-Corryn.md) | Quest giver | Assigned introductory mission |
+| [James Everett](Session%20Notes/Characters/James-Everett.md) | Fellow party member | PC |
+| [Tolliver Wist](Session%20Notes/Characters/Tolliver-Wist.md) | Fellow party member | PC |
+| [Veil Corryn](Session%20Notes/Characters/Veil-Corryn.md) | Quest giver | Assigned introductory mission |
 
 ## Session Appearances
 
