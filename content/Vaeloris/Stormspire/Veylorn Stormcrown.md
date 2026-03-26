@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T00:38:18.193-07:00","modified":"2026-02-24T23:11:55.236-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:38:18.193-07:00","modified":"2026-03-25T22:26:01.506-07:00","cssclasses":""}
 ---
 
 ## **Emperor of the Stormspire Empire**
@@ -74,7 +74,7 @@ According to imperial chronicles, **Veylorn Stormcrown** was **born during the S
 
 - **Raised by Hermits:** Legend says that sky hermits and elemental monks raised him, teaching him to command wind and lightning through will and wisdom.
 
-- **Crowned in Battle:** As a young man, Veylorn united warring tribes and defended the land from the **Silver Tyrant of the North**, earning the **[[Stormcrown]]**, an artifact said to channel the power of the sky itself.
+- **Crowned in Battle:** As a young man, Veylorn united warring tribes and defended the land from the **[Silver Tyrant of the North](Vaeloris/Stormspire/The%20Gloam/Elenra.md)**, earning the **[[Stormcrown]]**, an artifact said to channel the power of the sky itself.
 
 - **Founder of the Empire:** After the Tyrant’s fall, the scattered kingdoms begged him to take the throne and bring peace to Vaeloris.
 

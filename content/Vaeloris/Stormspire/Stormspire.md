@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-02-26T13:29:24.984-08:00","cssclasses":""}
+{"publish":true,"created":"2025-07-06T00:15:49.543-07:00","modified":"2026-03-25T22:24:41.479-07:00","cssclasses":""}
 ---
 
 Stormspire rises from a vast plateau, surrounded by steep cliffs and storm-wracked skies. It is a **marvel of elemental engineering**, blending polished marble streets, sky-piercing towers, and canals of flowing water. At its center, the **[[Stormspire Citadel]]**, seat of the [[Tempest Crown]], looms like a dagger pointing at the heavens.
@@ -29,7 +29,7 @@ A thundering industrial sprawl of **foundries, forges, and smelters**, glowing d
 - Weapons, armor, and magical constructs flow from this district to supply the empire's legions.
 - Fire genasi artisans and efreeti-smith apprentices work alongside mortal craftsmen.
 - Smoke stacks are vented skyward, carried away by enchanted winds to keep the city breathable.
-## 🌊 **The [[Sapphire Docks]] (Water Quarter, ruled by [Nerasa](Vaeloris/Stormspire/Bound%20Court/Nerasa.md))**
+## 🌊 **The [Sapphire Docks](Vaeloris/Stormspire/Sapphire%20Docks/Sapphire%20Docks.md) (Water Quarter, ruled by [Nerasa](Vaeloris/Stormspire/Bound%20Court/Nerasa.md))**
 
 Elegant canals weave through markets and harbors where **exotic goods** arrive from distant lands.
 
@@ -60,6 +60,13 @@ The outer districts where merchants, farmers, travelers, and common folk live an
 - Markets, inns, guild halls, and temples fill its streets.
 - Guarded but less strictly controlled, making it fertile ground for intrigue and rebellion.
 - Festivals honoring the elements are held here, blending religious fervor and civic pride.
+
+## 💀 [The Gloam](Vaeloris/Stormspire/The%20Gloam/The%20Gloam.md)
+
+Underground network of rooms and passageways that crisscross in the sewers underneath the city.
+- Home to all manner of illegal activity and items.
+- The few homeless that do exist in the city often sleep in these tunnels to avoid the crowds.
+- Secret societies and cults often use the tunnels to hide their activities or to get around the city unnoticed.
 
 # 🛡️ Defenses
 
