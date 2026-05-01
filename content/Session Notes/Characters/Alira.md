@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.505-07:00","modified":"2026-03-10T21:18:39.872-07:00","cssclasses":""}
+{"publish":true,"created":"2026-04-30T19:00:16.199-07:00","modified":"2026-04-30T19:01:45.738-07:00","cssclasses":""}
 ---
 
 
@@ -9,7 +9,7 @@
 **Role:** Missing child with magical promise
 **Affiliation:** Ms. Thornbloom's orphanage; noted by [Argent Wardens](Session%20Notes/Factions/Guilds/Argent-Wardens.md)
 **Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Stoneward (last seen at the Hollow Hearth orphanage)
-**Status:** Missing
+**Status:** Rescued (Session 3)
 
 ---
 
@@ -35,12 +35,14 @@ A child at the Hollow Hearth orphanage (run by [Ms. Thornbloom](Session%20Notes/
 | Character | Relationship | Notes |
 |-----------|-------------|-------|
 | [Ms. Thornbloom](Session%20Notes/Characters/Ms-Thornbloom.md) | Caretaker | Orphanage headmistress |
+| [Malreth Voss](Session%20Notes/Characters/Malreth-Voss.md) | Captor | Was using her power to enhance himself; defeated by party |
 
 ## Session Appearances
 
 | Session | Role | Notes |
 |---------|------|-------|
 | Session 1 (presumed) | Quest objective | Party sent to find her |
+| Session 3 | Rescued | Found in cult hideout; Malreth Voss was using her power to enhance himself |
 
 ## Notes
 
@@ -60,3 +62,4 @@ A child at the Hollow Hearth orphanage (run by [Ms. Thornbloom](Session%20Notes/
 - An anti-scrying sigil was found inscribed underneath her bed -- someone wanted to prevent magical surveillance of her
 - The journal and the sigil together suggest someone was cultivating or monitoring her magical development
 - **The door-and-chains imagery from her dreams matches medallions worn by attackers who ambushed the party outside the orphanage.** Three assailants in black coats with silver accents, armed with sickles and firebolt, each wearing a medallion depicting a door breaking free from chains. Alira's dreams may be visions connected to this group's goals.
+- **Rescued in Session 3.** Found in the cult hideout in the Gloam. [Malreth Voss](Session%20Notes/Characters/Malreth-Voss.md), a mad wizard, was using her power to enhance himself. The chained door from her dreams is a real, physical door in the back of Voss's room. A strong power was sensed behind it.

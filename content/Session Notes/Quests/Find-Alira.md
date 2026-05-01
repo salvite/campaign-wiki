@@ -1,11 +1,11 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.521-07:00","modified":"2026-03-10T21:18:39.912-07:00","cssclasses":""}
+{"publish":true,"created":"2026-04-30T19:00:16.174-07:00","modified":"2026-04-30T19:01:45.824-07:00","cssclasses":""}
 ---
 
 
 # Find Alira
 
-**Status:** Active
+**Status:** Completed (Alira rescued) -- broader missing children investigation ongoing
 **Given by:** [Veil Corryn](Session%20Notes/Characters/Veil-Corryn.md) (Argent Wardens)
 **Location:** [Stormspire](Session%20Notes/Locations/Stormspire.md) -- Stoneward, the Hollow Hearth orphanage
 **Session started:** Session 1 (presumed)
@@ -35,7 +35,10 @@ Upon investigating, [Ms. Thornbloom](Session%20Notes/Characters/Ms-Thornbloom.md
 - [ ] Identify and find the Whisper Man (black feather cloak, floats, whispers to children)
 - [ ] Identify the men posing as guild members
 - [ ] Determine what "testing" and "reclassification" mean
-- [ ] Find Alira and the other missing children
+- [x] Find Alira -- rescued from cult hideout in the Gloam (Session 3). Malreth Voss, a mad wizard, was using her power to enhance himself.
+- [ ] Find the other five missing children
+- [ ] The chained door from Alira's dreams is real -- located in the back of Voss's room in the cult hideout. A strong power sensed behind it.
+- [ ] Discovered a complex system for deciphering spell levels and classes in the hideout
 
 ## Rewards
 

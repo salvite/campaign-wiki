@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.481-07:00","modified":"2026-03-25T22:29:31.299-07:00","cssclasses":""}
+{"publish":true,"created":"2026-04-30T19:00:16.219-07:00","modified":"2026-04-30T19:01:45.820-07:00","cssclasses":""}
 ---
 
 
@@ -32,6 +32,7 @@ Unknown. Members encountered so far wear black coats with silver accents, carry 
 | Name | Role | File |
 |------|------|------|
 | The Whisper Man | Recruiter / agent | - |
+| [Malreth Voss](Session%20Notes/Characters/Malreth-Voss.md) | Mad wizard | Defeated Session 3; was using Alira's power to enhance himself |
 | Unknown operatives | Pose as guild members to access orphanages | - |
 
 ## Resources
@@ -54,6 +55,7 @@ Unknown. Members encountered so far wear black coats with silver accents, carry 
 |---------|--------|-------|
 | Session 1 | Three cult members ambushed the party outside the Hollow Hearth | Defeated; medallions recovered |
 | Session 2 | Medallion identified by Veil Corryn; party infiltrated Gloam hideout, killed 9 cultists and a priest | Hideout hidden behind an illusory wall |
+| Session 3 | Party defeated Malreth Voss, rescued Alira, found the chained door | Strong power sensed behind the door |
 
 ## Notes
 

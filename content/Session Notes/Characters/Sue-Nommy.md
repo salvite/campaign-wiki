@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.513-07:00","modified":"2026-03-10T21:18:39.901-07:00","cssclasses":""}
+{"publish":true,"created":"2026-04-30T19:00:16.211-07:00","modified":"2026-04-30T19:01:45.805-07:00","cssclasses":""}
 ---
 
 
@@ -29,6 +29,7 @@ A druid originating from a place called Bikini Bottom. Her hometown's geothermal
 
 - Druid class abilities
 - Octopus-human hybrid physiology (details TBD)
+- Can speak with animals (conversed with horses about oats)
 
 ## Relationships
 

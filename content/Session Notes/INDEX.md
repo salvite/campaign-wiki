@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2026-03-10T21:15:52.524-07:00","modified":"2026-03-10T21:18:39.913-07:00","cssclasses":""}
+{"publish":true,"created":"2026-04-30T19:00:16.235-07:00","modified":"2026-04-30T19:01:45.737-07:00","cssclasses":""}
 ---
 
 
@@ -16,6 +16,8 @@
 |---|------|-------|------|
 | 1 | 2026-02-22 | The Hollow Hearth | [Sessions/Session-01.md](Session%20Notes/Sessions/Session-01.md) |
 | 2 | 2026-03-08 | Into the Gloam | [Sessions/Session-02.md](Session%20Notes/Sessions/Session-02.md) |
+| 3 | 2026-03-15 | The Mad Wizard | [Sessions/Session-03.md](Session%20Notes/Sessions/Session-03.md) |
+| 4 | 2026-03-22 | The Featherwood Run | [Sessions/Session-04.md](Session%20Notes/Sessions/Session-04.md) |
 
 > New session? Copy [Sessions/_template.md](Session%20Notes/Sessions/_template.md)
 
@@ -28,6 +30,8 @@
 | **James Everett** | **PC -- Baron of Shortbrook (Rogue)** | **Active** | [Characters/James-Everett.md](Session%20Notes/Characters/James-Everett.md) |
 | **Tolliver Wist** | **PC -- Halfling** | **Active** | [Characters/Tolliver-Wist.md](Session%20Notes/Characters/Tolliver-Wist.md) |
 | **Sue Nommy** | **PC -- Octopus-human hybrid (Druid)** | **Active** | [Characters/Sue-Nami.md](Characters/Sue-Nami.md) |
+| **Halifax Byrd** | **PC -- Human (Fighter)** | **Active** | [Characters/Halifax-Byrd.md](Session%20Notes/Characters/Halifax-Byrd.md) |
+| **Ouligo (Ouli)** | **PC -- Half-goliath (Paladin)** | **Active** | [Characters/Ouligo.md](Session%20Notes/Characters/Ouligo.md) |
 | Henry Everett | Former Baron of Shortbrook (James's father) | Dead | [Characters/Henry-Everett.md](Session%20Notes/Characters/Henry-Everett.md) |
 | Veylorn Stormcrown | Emperor of the Stormcrown Empire | Active | [Characters/Veylorn-Stormcrown.md](Session%20Notes/Characters/Veylorn-Stormcrown.md) |
 | Khazir | Bound Court (Fire) | Active | [Characters/Khazir.md](Session%20Notes/Characters/Khazir.md) |
@@ -42,11 +46,13 @@
 | Thaldrum Stonehand | Leader, Stonewright League | Active | [Characters/Thaldrum-Stonehand.md](Session%20Notes/Characters/Thaldrum-Stonehand.md) |
 | Veil Corryn | Second-in-command, Argent Wardens | Active | [Characters/Veil-Corryn.md](Session%20Notes/Characters/Veil-Corryn.md) |
 | Ms. Thornbloom | Orphanage headmistress | Active | [Characters/Ms-Thornbloom.md](Session%20Notes/Characters/Ms-Thornbloom.md) |
-| Alira | Missing child (magical promise) | Missing | [Characters/Alira.md](Session%20Notes/Characters/Alira.md) |
+| Alira | Child with magical promise | Rescued | [Characters/Alira.md](Session%20Notes/Characters/Alira.md) |
 | Keff | Halfling orphan, potential witness | Active | [Characters/Keff.md](Session%20Notes/Characters/Keff.md) |
 | Ashion | Tiefling orphan, lookout for the party | Active | [Characters/Ashion.md](Session%20Notes/Characters/Ashion.md) |
 | "The Whisper Man" | Black feather cloak, takes children, floats | Unknown | - |
 | Goody Two Shoes | Elderly dragonborn informant (Tolliver's contact) | Active | [Characters/Goody-Two-Shoes.md](Session%20Notes/Characters/Goody-Two-Shoes.md) |
+| Malreth Voss | Mad wizard, cult operative | Defeated | [Characters/Malreth-Voss.md](Session%20Notes/Characters/Malreth-Voss.md) |
+| Garruk | Human lumberman | Active | [Characters/Garruk.md](Session%20Notes/Characters/Garruk.md) |
 
 > New character? Copy [Characters/_template.md](Session%20Notes/Characters/_template.md)
 
@@ -100,6 +106,7 @@
 
 | Name | Status | File |
 |------|--------|------|
-| Find Alira | Active | [Quests/Find-Alira.md](Session%20Notes/Quests/Find-Alira.md) |
+| Find Alira | Completed | [Quests/Find-Alira.md](Session%20Notes/Quests/Find-Alira.md) |
+| Collect Featherwood | Completed | [Quests/Collect-Featherwood.md](Session%20Notes/Quests/Collect-Featherwood.md) |
 
 > New quest? Copy [Quests/_template.md](Session%20Notes/Quests/_template.md)
